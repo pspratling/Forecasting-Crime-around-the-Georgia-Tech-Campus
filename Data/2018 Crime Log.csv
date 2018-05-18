@@ -1,0 +1,854 @@
+﻿OCANumber,IncidentFromDate,IncidentFromTime,IncidentToDate,IncidentToTime,OffenseCode,Offense Description,CaseStatus,CaseDisposition,LocationCode,PatrolZone,LocationLandmark,LocationStreetNumber,LocationDirectional,LocationStreet,LocationLatitude,LocationLongitude,CreatedSource
+18010030,01/06/2018,00:01:00,01/06/2018,23:59:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18010051,01/12/2018,14:30:00,01/12/2018,15:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Georgia Tech Police Criminal Investigations Division,828,,West Peachtree Street NW,,-84.38767,1
+18010167,01/30/2018,19:05:00,01/30/2018,19:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW @ 10th Street  NW,,,,,,1
+18010168,01/30/2018,20:46:00,01/30/2018,20:54:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ Eighth Street  NW,,,,,,1
+18020183,02/01/2018,15:52:00,02/01/2018,15:55:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,NAA Turnaround,120,,North Avenue NW,,,1
+18020318,02/20/2018,07:57:00,02/20/2018,08:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Parking Office (PTS)   178   Z2,828,,West Peachtree Street NW,33.777138,-84.387672,1
+18020346,02/22/2018,18:13:00,02/22/2018,18:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments,120,,North Avenue NW,,,1
+18020357,02/23/2018,10:05:00,02/23/2018,10:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Manufacturing Rel. Disc. Complex (MRDC)   135  Z3,801,,Ferst Drive NW,33.776967917900002,-84.400502691,1
+18030457,03/06/2018,17:12:00,03/06/2018,17:13:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street NW,,,1
+18030463,03/02/2018,16:00:00,03/02/2018,17:00:00,1316,Terroristic Threats/Intimidation,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Clough Undergraduate Learning Commons  166  Z2,266,,Fourth Street NW,33.774681795699998,-84.396379388400007,1
+18030477,03/09/2018,23:23:00,03/09/2018,23:40:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z4,,,,Hemphill Avenue @ Eighth Street NW,,,1
+18010006,01/02/2018,15:20:00,01/02/2018,15:49:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,,,,,,,1
+18010013,01/03/2018,08:45:00,01/03/2018,20:45:00,2308,Larceny - From Building,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Georgia Tech Parking and Transportation Services,828,,W. Peachtree Street  NW,33.776614159099999,-84.397329909099994,1
+18010026,01/07/2018,21:14:00,01/08/2018,00:49:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Klaus Parking Deck,266,,Ferst Drive,,,1
+18010046,01/11/2018,08:22:00,01/11/2018,08:36:00,9999,Non-Crime (not reported to state),Further Investigation,,PUB,Z1,,,,Tenth Street @ Fowler Street NW,33.781530,-84.393571,1
+18010105,01/21/2018,00:42:00,01/21/2018,01:03:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,NONCAM,Z1,Theta Chi Fraternity,840,,Techwood Drive  NW,33.777619340000001,-84.392350068100001,1
+18010111,01/22/2018,11:41:00,01/22/2018,12:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore 172  Z2,48,,Fifth Street NW,33.77668,-84.38863,1
+18010124,01/24/2018,12:15:00,01/24/2018,12:15:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Love Manufacturing Building,771,,Ferst Drive NW,33.776575441799999,-84.401673113499996,1
+18010125,01/21/2018,00:30:00,01/21/2018,01:30:00,1199,Sexual Assault Offense Free Text,Inactive,,ONCAMRES,Z2,Theta Chi Fraternity,840,,Techwood Drive  NW,,,1
+18010144,01/26/2018,22:05:00,01/26/2018,22:51:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA East,120,,North Avenue NW,,,1
+18010156,01/29/2018,00:02:00,01/29/2018,02:04:00,5313,Curfew Violation,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Fourth Street  NW @ Techwood Drive  NW,,,,,,1
+18010160,01/29/2018,22:29:00,01/29/2018,22:45:00,9999V,,Closed/Cleared,,ONCAM,Z2,,,,Techwood Drive  NW/Fourth Street  NW,,,2
+18020182,02/01/2018,15:25:00,02/01/2018,15:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street NW,33.77668,-84.38863,1
+17122277,12/01/2018,09:00:00,12/02/2018,13:00:00,2317,Larceny - Bicycle,Closed/Cleared,Unfounded,ONCAM,Z2,Clough Undergraduate Learning Common,266,,Fourth Street,,,1
+18010009,01/02/2018,21:18:00,01/02/2018,23:00:00,2408,Possession of Stolen Vehicle,Further Investigation,,NONCLERY,Z4,,1025,,Howell Mill Road  NW,,,1
+18010049,01/12/2018,09:00:00,01/12/2018,10:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Center Street Apartments,939,,Hemphill Avenue  NW,33.780051239800002,-84.401987856700003,1
+18010062,01/13/2018,03:09:00,01/13/2018,04:02:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Smith Residence Hall,630,,Williams Street  NW,33.771707325999998,-84.3912515496,1
+18010113,01/22/2018,10:00:00,01/22/2018,15:00:00,2204,Burglary - No Forced Entry - Residence,Inactive,,ONCAMRES,Z4,Eighth Street East Residence Hall,555,,Eighth Street  NW,,,1
+18010139,01/25/2018,23:54:00,01/26/2018,01:01:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z4,Tech Parkway NW @ Means Street NW,,,,,,1
+18010162,01/30/2018,11:15:00,01/30/2018,11:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,,351,,Ferst Drive  NW,,,1
+18020227,02/08/2018,22:46:00,02/08/2018,23:45:00,2804,Possession of Stolen Property,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Fourteenth Street  NW @ Howell Mill  NW,,,,,,1
+18020247,02/11/2018,20:12:00,02/11/2018,21:19:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z1,Ferst Drive  NW @ Atlantic Drive  NW,,,,,,1
+18020252,02/12/2018,10:18:00,02/12/2018,11:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,PUB,Z2,Fifth Street @ Spring Street,,,,33.776853,-84.388807,1
+18020272,02/15/2018,11:13:00,02/15/2018,12:08:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Smith Residence Hall,630,,William Street NW,,,1
+18020386,02/26/2018,11:25:00,02/26/2018,11:26:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18030431,03/02/2018,17:36:00,03/02/2018,18:30:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Student Center,351,,Ferst Drive NW,,,1
+18010016,01/04/2018,08:25:00,01/04/2018,16:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Boggs Building Lot (North),760,,State Street,,,1
+18010038,01/10/2018,12:01:00,01/10/2018,12:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Gray House/Hayes House,733,,Techwood Drive NW,,,1
+18010065,01/13/2018,20:46:00,01/13/2018,21:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Spring Street  NW at Lynden Avenue  NW,,,,33.770040,-84.388883,1
+18010069,01/14/2018,16:41:00,01/14/2018,17:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium,155,,NORTH AVE NW,,,1
+18020181,01/31/2018,19:31:00,01/31/2018,19:39:00,2599,Counterfeiting Free Text,Inactive,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18020195,02/03/2018,01:20:00,02/03/2018,01:20:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,Tenth Street NW / Fowler Street NW,,,1
+18020267,02/14/2018,20:24:00,02/14/2018,21:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ Eighth Street  NW,,,,,,1
+18030471,03/08/2018,14:31:00,03/08/2018,15:15:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,ONCAM,Z1,,,,Fowler Street NW @ 10th Street NW,,,1
+18030501,03/13/2018,10:04:00,03/13/2018,11:05:00,5404,Driving Under the Influence of Alcohol,Further Investigation,Cleared by Arrest,ONCAM,Z1,Georgia Public Broadcasting - GTRI  141A  Z1,260,,Fourteenth Street NW,33.7858,-84.3956,1
+18030518,03/15/2018,09:30:00,,,9999W,,Closed/Cleared,Cleared by Arrest,NONCAM,Z2,CODA Building   826   Z2,756,,West Peachtree Street NW,33.7752608303,-84.3876361753,1
+18030521,03/15/2018,13:00:00,03/15/2018,13:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Ferst Drive NW @ Fowler Street NW,,,,,,1
+18030564,03/21/2018,16:00:00,03/21/2018,16:01:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18010015,01/04/2018,21:53:00,01/04/2018,23:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,,,,,33.781552,-84.404199,1
+18010064,01/13/2018,16:34:00,01/13/2018,16:52:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments South Building,120,,North Avenue NW,,,1
+18010097,01/19/2018,20:10:00,01/19/2018,20:10:00,9999V,,Closed/Cleared,,ONCAMRES,Z2,NAA Turnaround,120,,North Avenue NW,,,1
+18010130,01/24/2018,22:19:00,01/24/2018,23:59:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ Ethel Street  NW,,,,,,1
+18020179,01/14/2018,13:15:00,01/14/2018,14:15:00,2605,Fraud - Illegal Use of Credit/Financial Transaction Cards,Inactive,,ONCAM,Z2,Amazon @ Georgia Tech,86,,Fifth Street  NW,,,1
+18020194,02/02/2018,20:38:00,02/02/2018,20:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,,,,Fowler Street @ Ferst Drive,,,1
+18020217,02/06/2018,21:53:00,02/06/2018,22:16:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW @ Deering Road,,,,,,1
+18020392,02/15/2018,07:59:00,02/26/2018,20:03:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Schellar College of Business,800,,West Peachtree Street NW,,,1
+18020394,01/27/2018,09:00:00,02/22/2018,14:00:00,2901,Damage to Property - Business,Further Investigation,,ONCAM,Z1,Griffin Track   342   Z1,930,,Fowler Street NW,33.7794475,-84.3950901,1
+18030481,03/10/2018,18:00:00,03/10/2018,18:44:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z1,McCamish Pavilion,965,,Fowler Street  NW,33.781530,-84.393571,1
+18030513,03/14/2018,16:25:00,03/14/2018,17:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,,PUB,Z2,Williams Street  NW at Fifth Street  NW,,,,,,1
+18030599,03/20/2018,10:44:00,03/20/2018,11:18:00,1316,Terroristic Threats/Intimidation,Closed/Cleared,,ONCAM,Z3,Van Leer Electrical Engineering Building   85  Z3,777,,Atlantic Drive NW,33.775855911500003,-84.397170809100004,1
+18010058,01/13/2018,00:37:00,01/13/2018,00:57:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,14th Street  NW @ Northside Drive  NW,,,,,,1
+18010078,01/16/2018,17:59:00,01/16/2018,20:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Services Building,353,,Ferst Drive NW,,,1
+18010100,01/19/2018,13:00:00,01/19/2018,21:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,Unfounded,ONCAM,Z2,Britain Dining Hall,649,,Techwood Drive  NW,,,1
+18010120,01/23/2018,18:50:00,01/23/2018,19:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,,,,,33.775464005800004,-84.403499012599994,1
+18010136,01/18/2018,12:00:00,01/25/2018,19:42:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Scheller College of Business,800,,West Peachtree Street NW,,,1
+18020175,02/01/2018,07:15:00,02/01/2018,08:25:00,4104,Liquor - Possession Of,Further Investigation,Prosecution Declined,ONCAMRES,Z2,Matheson Residence Hall   92   Z2,715,,Techwood Drive  NW,33.7745062595,-84.39133,1
+18020235,02/09/2018,19:45:00,02/09/2018,19:51:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,,,,Fifth Street @ Techwood Drive NW,33.776916,-84.392120,1
+18020251,02/12/2018,09:28:00,02/12/2018,09:28:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Graduate Living Center   52  Z1,301,,Tenth Street NW,33.781957443700001,-84.396605664800006,1
+18020388,02/23/2018,02:40:00,02/23/2018,02:45:00,3699,Sex Offense Free Text,Inactive,,NONCAM,Z1,Phi Gamma Delta Fraternity,841,,Fowler Street NW,,,1
+18020396,02/27/2018,16:27:00,02/27/2018,16:46:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue Apartments,120,,North Avenue NW,,,1
+18030434,03/03/2018,02:05:00,03/03/2018,03:02:00,5311,Disorderly Conduct,Closed/Cleared,Cleared by Arrest,PUB,Z2,Tenth Street  NW @ Williams Street  NW,,,,,,1
+18030489,03/02/2018,07:00:00,03/02/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Landscape Offices,915,,Atlantic Dr. NW,,,1
+18010063,01/13/2018,03:17:00,01/13/2018,04:03:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Smith Residence Hall,630,,Williams Street NW,,,1
+18010138,01/25/2018,23:20:00,01/25/2018,23:45:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ 8th Street  NW,,,,,,1
+18010159,01/29/2018,21:37:00,01/29/2018,22:29:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Hanson Residence Hall,109,,Bobby Dodd Way  NW,33.7741941966,-84.390936214000007,1
+18010161,01/28/2018,16:00:00,01/30/2018,07:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium,155,,North Avenue  NW,33.771865,-84.393316,1
+18020180,02/01/2018,11:30:00,02/01/2018,12:20:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z4,West Village Dining Commons,532,,Eighth Street NW,,,1
+18020212,02/06/2018,01:00:00,02/06/2018,01:30:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18020231,02/08/2018,20:00:00,02/08/2018,21:30:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z4,Campus Recreation Center,750,,Ferst Drive  NW,33.775464005800004,-84.403499012599994,1
+18020263,02/13/2018,22:50:00,02/14/2018,00:01:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z3,Bobby Dodd Way @ Powerplant Drive,,,,,,1
+18030433,03/02/2018,23:09:00,03/03/2018,00:40:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Fourteenth Street  NW @ State Street  NW,,,,,,1
+18030440,03/04/2018,00:52:00,03/04/2018,01:35:00,9999F,,Closed/Cleared,,ONCAMRES,Z4,Fulmer Residence Hall,871,,McMillan Street  NW,33.778647731100001,-84.403883816000004,1
+18030451,03/05/2018,22:22:00,03/06/2018,00:11:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue,33.77101,-84.3913,1
+18030526,03/15/2018,20:20:00,03/15/2018,20:22:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street NW,,,1
+18010092,01/18/2018,19:21:00,01/18/2018,,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street  NW at Atlantic Drive  NW,,,,33.781541,-84.399159,1
+18010118,01/12/2018,16:00:00,01/23/2018,16:08:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Skiles Classroom Building,686,,Cherry Street  NW,,,1
+18020198,02/03/2018,00:01:00,02/03/2018,01:00:00,2399,Larceny Offense Free Text,Closed/Cleared,Unfounded,ONCAM,Z2,,154,,Fifth Street NW,33.7745062595,-84.39133,1
+18020202,02/03/2018,18:28:00,02/03/2018,19:53:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,OFFCAM,75/85 Northbound,,,,,,1
+18020222,01/24/2018,12:00:00,01/24/2018,12:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,,,,Fifth Street @ Techwood Drive NW,33.776916,-84.392120,1
+18020356,02/20/2018,17:00:00,02/22/2018,12:00:00,2205,Burglary - No Forced Entry -NonResidence,Inactive,,ONCAM,Z2,Library-East Tower (Crosland)   100   Z2,241,,Bobby Dodd Way NW,33.7744717413,-84.3949261732,1
+18020361,02/19/2018,21:00:00,02/19/2018,21:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Brittain Recreation Facility,649,,Techwood Drive NW,,,1
+18020362,02/22/2018,15:00:00,02/22/2018,16:20:00,2317,Larceny - Bicycle,Inactive,,ONCAM,Z4,CRC,750,,Ferst Drive NW,,,1
+18020376,02/25/2018,15:55:00,02/25/2018,16:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA South,120,,North Avenue  NW,33.76932,-84.39182,1
+18020407,02/28/2018,18:28:00,02/28/2018,18:54:00,9999V,,Closed/Cleared,,ONCAMRES,Z1,Family Apartments,251,,Tenth Street  NW,,,1
+18030510,03/14/2018,07:37:00,03/14/2018,07:37:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z3,Pi Kappa Phi Fraternity,220,,Ferst Drive  NW,33.7766739637,-84.3943048516,1
+18030569,03/22/2018,15:14:00,03/22/2018,15:38:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Cloudman Residence Hall   13  Z2,661,,Techwood Drive NW,33.772797287899998,-84.391622187999999,1
+18030581,02/22/2018,12:50:00,03/23/2018,07:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z3,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18010028,01/08/2018,21:30:00,01/09/2018,21:45:00,2317,Larceny - Bicycle,Further Investigation,,NONCAM,Z2,Beta Theta Pi Fraternity   303   Z2,764,,Fowler Street NW,33.775519708200001,-84.394475750500007,1
+18010048,01/11/2018,18:53:00,01/11/2018,19:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments - North,939,,Hemphill Avenue  NW,33.7800512398,-84.4019878567,1
+18010091,01/18/2018,18:00:00,01/18/2018,18:04:00,5499,Traffic Offense (describe offense),Closed/Cleared,,ONCAM,Z4,Tech Parkway  NW @ State Street  NW,,,,33.773073,-84.399196,1
+18020197,02/02/2018,19:00:00,02/03/2018,09:15:00,2902,Damage to Property - Private,Inactive,,ONCAM,Z1,Family Apartments Parking Deck (specify level),251,,Tenth Street,,,1
+18020313,02/19/2018,16:42:00,02/19/2018,16:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Howey Physics Building,800,,Atlantic Drive NW,33.7774229491,-84.398467142599998,1
+18020359,02/23/2018,13:00:00,02/23/2018,13:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Beringause Building,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18020378,02/25/2018,16:30:00,02/25/2018,16:32:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,,,1
+18020379,02/25/2018,17:02:00,02/25/2018,19:05:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Georgia Tech Hotel & Conference Center,800,,Spring Street  NW,33.776343252300002,-84.389307920199997,1
+18020397,02/13/2018,16:00:00,02/13/2018,17:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18030461,03/07/2018,17:45:00,03/07/2018,18:44:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Manufacturing Related Disciplines Complex,801,,Ferst Drive NW,,,1
+18030479,03/10/2018,10:59:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA South  191  Z2,120,,North Avenue NW,33.76932,-84.39182,1
+18030497,03/12/2018,23:41:00,03/13/2018,00:24:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,Z4,,,,Tenth Street NW / Northside Drive NW,,,1
+18010011,01/03/2018,17:30:00,01/03/2018,17:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Sixth Street @ Fowler Street,,,Sixth Street,,,1
+18010036,01/10/2018,11:11:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Zelnak Basketball Practice Facility,965,,Fowler Street NW,,,1
+18010050,01/12/2018,06:06:00,01/12/2018,06:06:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA North  191  Z2,120,,North Avenue  NW,33.77058,-84.39095,1
+18010150,01/28/2018,00:45:00,01/28/2018,02:40:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,,,,33.775156,-84.391976,1
+18020292,02/16/2018,23:38:00,02/16/2018,23:59:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z4,,,,Hemphill Avenue NW / Ninth Street NW,,,1
+18020317,02/20/2018,03:08:00,02/20/2018,03:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street @ State Street,,,,,,1
+18020366,02/24/2018,23:58:00,02/25/2018,00:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Stamps Field,750,,Ferst Drive Nw,,,1
+18020406,02/28/2018,15:00:00,02/28/2018,15:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18030417,03/01/2018,17:07:00,03/01/2018,17:28:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCAM,Z4,,,,Tenth Street @ Northside Drive NW,,,1
+18030505,03/13/2018,19:30:00,03/13/2018,20:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Cloudman Residence Hall,661,,Techwood Drive NW,33.772797287899998,-84.391622187999999,1
+18030511,03/14/2018,10:54:00,03/14/2018,11:30:00,8399,,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Library   77   Z2,704,,Cherry Street  NW,33.774317321700003,-84.395723825199994,1
+18030538,03/16/2018,20:00:00,03/16/2018,20:15:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,,Technology Square Research Building,85,,Fifth Street NW,,,1
+18030638,03/28/2018,16:20:00,03/28/2018,18:00:00,2902,Damage to Property - Private,Further Investigation,,ONCAM,Z2,Technology Square Parking Deck,800,,Spring Street  NW,33.778956412500001,-84.401314659600004,1
+18010002,01/01/2018,15:28:00,01/01/2018,16:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Crecine Residence Hall,900,,Hemphill Avenue  NW,33.7800571006,-84.4035189284,1
+18010022,01/07/2018,04:30:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Hanson Residence Hall,109,,Bobby Dodd Way  NW,33.7750811266,-84.3943248793,1
+18010057,01/12/2018,21:07:00,01/12/2018,22:30:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,,,,,,,1
+18010102,01/20/2018,19:50:00,01/20/2018,19:55:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Parking and Transportaiton Services,828,,West Peachtree Street NW,33.776280525200001,-84.3880186544,1
+18010122,01/24/2018,10:00:00,01/24/2018,10:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Skiles Classroom Building,686,,Cherry Street  NW,,,1
+18010142,01/22/2018,07:00:00,01/25/2018,11:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,OFFCAM,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18010165,01/23/2018,09:00:00,01/23/2018,10:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,College of Computing,801,,Atlantic Drive  NW,,,1
+18020219,02/07/2018,13:24:00,02/07/2018,13:24:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Crecine Residence Hall,900,,Hemphill Avenue NW,,,1
+18020232,02/09/2018,16:42:00,02/09/2018,16:42:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z3,Great Clips Technology Square,74,,5th Street  NW,,,1
+18020315,02/19/2018,23:53:00,02/19/2018,23:53:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,Fowler Street NW/ Eighth Street NW,,,1
+18020352,02/23/2018,00:18:00,02/23/2018,12:30:00,3542,Synthetic Narcotic - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,14th Steet  NW @ Francis Street  NW,,,,,,1
+18020354,02/22/2018,23:48:00,02/23/2018,04:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,,,1
+18010034,01/09/2018,21:00:00,01/09/2018,21:44:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Ford Envir. Science & Technology,311,,Ferst Drive  NW,33.778896623599998,-84.396036089199995,1
+18010068,01/14/2018,02:00:00,01/14/2018,02:50:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Towers Residence Hall   15   Z2,112,,Bobby Dodd Way NW,33.773432325900004,-84.391000115200001,1
+18010071,01/14/2018,21:06:00,01/14/2018,21:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Family Apartments,251,,Tenth Street  NW,,,1
+18010082,01/17/2018,09:15:00,01/17/2018,17:15:00,2305,Larceny - Articles from Vehicle,Inactive,,ONCAM,Z2,Peters Parking Deck,749,,Fowler Street  NW,,,1
+18010090,01/18/2018,16:45:00,,,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,Fifth Street  NW @ Spring Street  NW,,,,33.775887,-84.388809,1
+18010106,01/21/2018,01:08:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Brown Residence Hall   7  Z2,625,,Techwood Drive NW,33.771679380099997,-84.391821865500006,1
+18010126,01/24/2018,14:06:00,01/24/2018,14:06:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Beringause Building,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18010146,01/27/2018,00:41:00,01/27/2018,02:30:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,14th Street  NW @ Williams Street  NW,,,,,,1
+18020177,01/23/2018,13:00:00,02/01/2018,12:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18020205,02/04/2018,04:43:00,02/04/2018,05:03:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z2,Spring Street @ Fifth Street,,,,33.775887,-84.388809,1
+18020225,02/08/2018,15:00:00,02/08/2018,15:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,College of Computing,801,,Atlantic Dr. NW,,,1
+18010008,01/02/2018,18:54:00,01/02/2018,18:54:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Techwood Drive,,,Techwood Drive / Bobby Dodd Way,,,1
+18010031,01/09/2018,11:20:00,01/09/2018,12:00:00,2310,Larceny - From Mail ,Inactive,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street NW,33.77668,-84.38863,1
+18010086,01/13/2018,08:30:00,01/13/2018,18:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,NAA North Parking Deck   191   Z2,120,,North Avenue NW,33.770600,-84.391865,1
+18010128,01/24/2018,17:48:00,01/24/2018,19:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium,155,,North Avenue NW,33.771865,-84.393316,1
+18010148,01/27/2018,10:39:00,01/27/2018,11:15:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAMRES,Z1,Family Apartments   180   Z1,251,,Tenth Street NW,33.7823800228,-84.3959555597,1
+18010169,01/29/2018,00:00:00,01/30/2018,22:13:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,Edge Athletic Center,150,,Bobby Dodd Way NW,,,1
+18020199,01/25/2018,09:00:00,02/03/2018,12:53:00,2317,Larceny - Bicycle,Inactive,,ONCAM,Z2,,281,,Ferst Drive,33.773432325900004,-84.391000115200001,1
+18020201,02/03/2018,17:45:00,02/03/2018,18:01:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,ONCAM,Z1,Ferst Drive  NW @ Atlantic Drive  NW,,,,,,1
+18020221,02/07/2018,19:04:00,02/07/2018,19:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,O'Keefe Building,151,,Sixth Street  NW,,,1
+18020241,02/11/2018,02:59:00,02/11/2018,03:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,Techwood Drive NW @ North Avenue NW,,,,,,1
+18020358,02/23/2018,13:00:00,12/23/2018,13:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Gilbert Price Library,266,,Fourth Street  NW,,,1
+18030416,02/28/2018,22:57:00,02/28/2018,22:57:00,2308,Larceny - From Building,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18030551,03/18/2018,00:27:00,03/18/2018,01:36:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,33.781530,-84.393571,1
+18030560,03/20/2018,11:23:00,03/20/2018,11:28:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z1,Centennial Research Building,400,,Tenth Street NW,,,1
+18030571,03/22/2018,17:10:00,03/22/2018,17:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA East  191,120,,North Avenue  NW,,,1
+18030665,03/31/2018,12:00:00,03/31/2018,13:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z3,Alpha Tau Omega Fraternity   302   Z3,205,,Fourth Street NW,33.776257972499998,-84.394113148900004,1
+18040784,04/13/2018,01:57:00,04/13/2018,03:44:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,BP Gas,610,,Spring Street NW,33.770969,-84.389392,1
+18040804,04/15/2018,14:36:00,04/15/2018,15:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments: South,120,,North Avenue  NW,,,1
+18040835,04/18/2018,17:05:00,04/18/2018,17:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,North Avenue  NW and Northside Drive  NW,,,,33.770132,-84.404539,1
+18040844,04/19/2018,13:31:00,04/19/2018,13:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Library,704,,Cherry Street NW,,,1
+18040903,04/27/2018,14:00:00,04/27/2018,17:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18040923,04/30/2018,13:31:00,04/30/2018,13:51:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Phi Mu,140,,Ferst Drive  NW,,,1
+18051004,05/08/2018,08:58:00,05/08/2018,09:45:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,North Avenue @ Centennial Olympic Park Drive NW,,,1
+18010001,01/01/2018,02:00:00,01/01/2018,03:00:00,2204,Burglary - No Forced Entry - Residence,Closed/Cleared,Cleared by Arrest,ONCAMRES,Z3,Pi Kappa Phi Fraternity,220,,Ferst Drive  NW,33.781552,-84.404199,1
+18010021,01/07/2018,00:36:00,01/07/2018,00:45:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Tenth Street  NW and Fowler Street  NW,,,,,,1
+18010033,01/09/2018,19:57:00,01/09/2018,21:30:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Schellar College of Business,800,,W. Peachtree Street  NE,,,1
+18010041,01/10/2018,16:44:00,01/10/2018,17:05:00,9999V,,Closed/Cleared,,ONCAM,Z2,,,,,,-84.38863,1
+18010098,01/19/2018,22:42:00,01/20/2018,00:45:00,9999F,,Closed/Cleared,,ONCAMRES,Z4,Folk Residence Hall,531,,Turner Place NW,,,1
+18010115,01/23/2018,07:45:00,01/23/2018,08:30:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAMRES,Z2,Glenn Residence Hall   16   Z2,118,,Bobby Dodd Way NW,33.773422072599999,-84.3916112016,1
+18010131,01/25/2018,08:15:00,01/25/2018,09:20:00,9999,Non-Crime (not reported to state),Further Investigation,,PUB,Z2,Fifth Street Bridge   385   Z2,,,Fifth Street NW @ I-75/85,33.776895,-84.390873,1
+18010152,01/28/2018,01:16:00,01/28/2018,02:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18020233,02/09/2018,17:18:00,02/09/2018,17:50:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,North Avenue Apartments - South,120,,North Avenue  NW,33.76932,-84.39182,1
+18020307,02/19/2018,13:00:00,02/19/2018,13:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Libary,704,,Cherry Street NW,,,1
+18020347,02/22/2018,19:06:00,02/22/2018,22:18:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,North Avenue  NW  at Spring Street  NW,,,,,,1
+18020368,02/24/2018,00:41:00,02/24/2018,02:45:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z1,Waffle House,66,,Fifth Street NW,,,1
+18020381,02/23/2018,20:00:00,02/25/2018,13:00:00,2399,Larceny Offense Free Text,Inactive,,ONCAMRES,Z4,Maulding Residence Hall,501,,Sixth Street  NW,33.777007,-84.405706,1
+18010019,01/06/2018,13:30:00,01/06/2018,13:45:00,8399,,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Glenn Residence Hall,118,,Bobby Dodd Way  NW,,,1
+18010037,01/01/2018,13:00:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Crecine Residence Hall   131   Z4,900,,Hemphill Avenue NW,33.780057100599997,-84.403518928400004,1
+18010060,01/13/2018,01:20:00,01/13/2018,02:00:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,PUB,Z3,,,,Ferst Drive @ Hemphill Avenue NW,33.778497,-84.401370,1
+18010133,01/23/2018,16:30:00,01/23/2018,20:00:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z3,Klaus Advanced Computing Building,266,,Ferst Drive  NW,,,1
+18010145,01/26/2018,22:15:00,01/26/2018,22:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Recreation Center,750,,Ferst Drive NW,,,1
+18020176,01/31/2018,16:45:00,02/01/2018,09:00:00,2308,Larceny - From Building,Inactive,,ONCAM,Z2,Scheller College of Business,800,,West Peachtree Street NW,33.776280525200001,-84.3880186544,1
+18020191,02/02/2018,15:15:00,02/02/2018,15:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street NW,33.774681795699998,-84.396379388400007,1
+18020213,02/06/2018,09:30:00,02/06/2018,10:00:00,2399,Larceny Offense Free Text,Closed/Cleared,Unfounded,ONCAM,Z1,O'Keefe Building   33   Z1,151,,Sixth Street NW,33.7738,-84.3945,1
+18020259,02/13/2018,11:48:00,02/13/2018,11:48:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Student Health Center,740,,Ferst Drive  NW,33.7748336563,-84.40311079,1
+18020270,02/15/2018,08:15:00,02/15/2018,08:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Technology Square Parking Deck,770,,Spring Street  NW,33.775586617599998,-84.389475466600004,1
+18020370,02/23/2018,19:30:00,02/24/2018,11:11:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Student Center,351,,Ferst Drive  NW,33.778956412500001,-84.401314659600004,1
+18020375,02/25/2018,14:20:00,02/25/2018,14:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Skiles Classroom Building,686,,Cherry Street  NW,33.773603901800001,-84.396244826,1
+18010025,01/07/2018,22:45:00,01/07/2018,23:20:00,3564,Marijuana Free Text,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,NAA South  191  Z2,120,,North Avenue NW,33.76932,-84.39182,1
+18010045,01/10/2018,19:00:00,01/10/2018,21:30:00,2308,Larceny - From Building,Inactive,,ONCAM,Z2,Georgia Tech Hotel & Conference Center,800,,Spring Street  NW,33.776343252300002,-84.389307920199997,1
+18010056,01/12/2018,16:44:00,01/12/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Howey Physics Building,800,,Atlantic Drive NW,,,1
+18010110,01/22/2018,08:49:00,01/22/2018,09:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,,62,,Fifth Street  NW,33.776853,-84.388807,1
+18010154,01/28/2018,08:59:00,01/28/2018,08:59:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Freeman Residence Hall,835,,McMillan Street  NW,33.777550332899999,-84.403920210199999,1
+18010174,01/31/2018,15:15:00,01/31/2018,17:02:00,3699,Sex Offense Free Text,Closed/Cleared,Cleared by Arrest,ONCAM,Z4,Eighth Street Apartment,555,,Eighth Street NW,,,1
+18020256,02/12/2018,22:30:00,02/12/2018,23:00:00,3542,Synthetic Narcotic - Possession of,Closed/Cleared,Cleared by Arrest,PUB,Z4,Tech Parkway  NW @ North Avenue  NW,,,,33.771310,-84.392067,1
+18020276,02/15/2018,17:07:00,02/15/2018,17:37:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,PUB,Z2,,,,,,,2
+18020285,02/16/2018,11:54:00,02/16/2018,11:54:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,,,770,,State Street NW,33.778956412500001,-84.401314659600004,1
+18020411,02/28/2018,19:00:00,02/28/2018,21:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Van Leer Electrical Engenering Building,777,,Atlantic Drive,33.777007,-84.405706,1
+18020415,03/01/2018,23:10:00,03/01/2018,23:55:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,14th Street NW @ Holly Street NW,,,,33.786547,-84.390444,1
+18030472,03/08/2018,23:58:00,03/09/2018,00:40:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,Woodruff Residence Hall,890,,Curran Street NW,,,1
+18010052,01/12/2018,10:45:00,01/12/2018,10:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,West Village,532,,8th St NW ,,,1
+18010093,01/16/2018,22:00:00,01/16/2018,22:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Peters Parking Deck,749,,Fowler Street NW,,,1
+18010172,01/31/2018,14:54:00,01/31/2018,15:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Tenth Street  NW @ Greenfield Street  NW,,,,,,1
+18020178,02/01/2018,14:48:00,02/01/2018,14:59:00,9999V,,Inactive,,ONCAM,Z2,Administration (Tech Tower),225,,North Avenue NW,,,1
+18020237,02/09/2018,22:56:00,02/09/2018,23:12:00,5211,Possession of Explosives/Fireworks,Closed/Cleared,Prosecution Declined,NONCAM,Z2,Beta Theta Pi Fraternity,764,,Fowler Street  NW,33.775519708200001,-84.394475750500007,1
+18020369,02/24/2018,03:08:00,02/24/2018,04:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,Fifth Street NW / Williams Street NW,,,1
+18020382,02/25/2018,23:01:00,02/26/2018,,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,Spring Street  NW @ Peachtree Place  NW,,,,,,1
+18020409,02/28/2018,20:20:00,02/28/2018,21:15:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW @ Fourteenth Street  NW,,,,33.786249,-84.407383,1
+18030469,03/02/2018,09:30:00,03/02/2018,12:00:00,5309,Harassing Communication,Further Investigation,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,,,1
+18030534,03/16/2018,14:00:00,03/16/2018,14:14:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18030562,03/19/2018,17:17:00,03/20/2018,20:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Hefner Residence Hall,510,,Eighth Street NW,33.779148858600003,-84.403943568499997,1
+18030617,03/18/2018,12:00:00,03/18/2018,14:15:00,2399,Larceny Offense Free Text,Further Investigation,,PUB,Z2,,400,,Centennial Olympic Park Drive,33.778956412500001,-84.401314659600004,1
+18010035,01/10/2018,09:40:00,01/10/2018,09:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium   17   Z2,155,,North Avenue NW,33.771865,-84.393316,1
+18010099,01/20/2018,01:21:00,01/20/2018,01:38:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Freeman Residence Hall,835,,McMillan Street NW,,,1
+18020264,02/14/2018,14:40:00,02/14/2018,14:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,Tenth Street  NW @ Atlantic Drive  NW,,,,,,1
+18020293,02/17/2018,00:36:00,02/17/2018,00:38:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z1,Center Street Apartments,939,,Hemphill Avenue NW,,,1
+18020316,02/20/2018,02:15:00,02/20/2018,03:59:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,33.771335,-84.388862,1
+18030507,03/13/2018,01:12:00,03/13/2018,22:30:00,5299,Weapons Violation Offense Free Text,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,33.778956412500001,-84.401314659600004,1
+18030527,03/16/2018,00:29:00,03/16/2018,01:10:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW at Hampton Street  NW,,,,,,1
+18030533,03/16/2018,13:34:00,03/16/2018,14:01:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Eighth Street Apartments,555,,Eighth Street NW,33.780128725799997,-84.405138647100003,1
+18030547,03/17/2018,14:38:00,03/17/2018,15:32:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street  NW at Hemphill Avenue  NW,,,,,,2
+18030594,03/25/2018,02:07:00,03/25/2018,03:01:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,33.777014,-84.390407,1
+18040674,03/30/2018,17:00:00,03/31/2018,09:24:00,2902,Damage to Property - Private,Further Investigation,,ONCAM,Z2,North Avenue Apartments  191  Z2,120,,North Avenue NW,33.770119840900001,-84.391353516400002,1
+18040891,04/26/2018,16:50:00,04/26/2018,17:01:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,3rd Street @ West Peachtree Street,,,,,,1
+18010066,01/13/2018,23:04:00,01/14/2018,01:30:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z1,Ferst Drive @ Atlantic Drive NW,,,,33.778264,-84.397802,1
+18010084,01/18/2018,02:56:00,01/18/2018,02:59:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z4,Crecine Residence Hall,900,,Hemphill Avenue NW,,,1
+18010116,01/23/2018,14:10:00,01/23/2018,14:18:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,,,,,,1
+18010164,01/30/2018,12:53:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Services Building   123   Z3,353,,Ferst Drive NW,33.774350440299997,-84.399552469699998,1
+18020210,02/05/2018,10:00:00,02/05/2018,10:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Research Administration,505,,Tenth Street NW,,,1
+18020215,02/06/2018,20:42:00,02/06/2018,21:14:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ Fourteenth Street  NW,,,,33.781583,-84.407442,1
+18020234,02/09/2018,18:10:00,02/09/2018,18:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Eighth Street Apartments - East,555,,Eighth Street  NW,,,1
+18020266,02/14/2018,16:07:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street NW,33.77668,-84.38863,1
+18020351,02/23/2018,00:23:00,02/23/2018,00:49:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Donald Lee Hollowell  NW @ Joseph Lee Lowery  NW,,,,,,1
+18020353,02/23/2018,00:41:00,02/23/2018,01:02:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z1,,,,Techwood Drive NW / Sixth Street NW,,,1
+18020373,02/24/2018,19:47:00,02/24/2018,19:56:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Fourteenth Street  NW and Hemphill Avenue  NW,,,,,,1
+18030462,03/07/2018,18:45:00,03/07/2018,18:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,Unfounded,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street NW,,,1
+18030532,03/16/2018,12:00:00,03/16/2018,12:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18010094,01/18/2018,15:00:00,01/19/2018,14:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Boggs Building,770,,State Street  NW,,,1
+18010137,01/25/2018,22:16:00,01/25/2018,22:25:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,PUB,OFFCAM,Northside Drive  NW @ 14th Street  NW,,,,,,1
+18020188,02/01/2018,08:00:00,02/02/2018,07:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,O'keefe West Lot,151,,Sixth Street,,,1
+18020200,02/03/2018,18:35:00,02/03/2018,,2902,Damage to Property - Private,Further Investigation,,ONCAM,Z1,O'Keefe Building,151,,Sixth Street  NW,33.7738,-84.3945,1
+18020209,02/05/2018,17:50:00,02/05/2018,17:53:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Scheller College of Business   172   Z2,800,,West Peachtree Street NW,33.776280525200001,-84.3880186544,1
+18020214,02/06/2018,18:00:00,02/06/2018,18:42:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Technology Square Research Building,85,,Fifth Street NW,,,1
+18020220,02/07/2018,18:36:00,02/07/2018,18:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Howey Physics Building,800,,Atlantic Drive  NW,,,1
+18020229,02/09/2018,10:47:00,,,4899,Obstructing Police Offense Free Text,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Barnes and Noble Bookstore 172  Z2,48,,Fifth Street  NW,33.77668,-84.38863,1
+18020240,02/11/2018,00:22:00,,,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,Woodruff Residence Hall   116   Z4,890,,Curran Street NW,33.7791074274,-84.406624872899997,1
+18020245,02/10/2018,12:00:00,02/10/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,West Village Dining Commons,532,,Eighth Street  NW,,,1
+18020249,02/12/2018,00:49:00,02/12/2018,01:34:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,Z1,Fourteenth Street @ Techwood Drive,,,,,,1
+18020298,02/17/2018,20:10:00,02/17/2018,20:21:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,Ferst Drive  NW and Fowler Street  NW,,,,33.778956412500001,-84.401314659600004,1
+18010032,01/09/2018,13:00:00,01/09/2018,16:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Commons,266,,4th Street NW,,,1
+18010117,01/23/2018,14:35:00,01/23/2018,14:55:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Delta Sigma Phi House,165,,Fourth Street,,,1
+18020189,01/31/2018,10:00:00,01/31/2018,10:00:00,9999,Non-Crime (not reported to state),Inactive,,ONCAM,Z2,Techwood Drive @ Bobby Dodd Way  Z2,,,Techwood Drive @ Bobby Dodd Way NW,33.773942,-84.392003,1
+18020204,02/04/2018,02:19:00,02/04/2018,02:28:00,5314,Loitering Violation,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue Apartments,120,,North Avenue  NW,33.771310,-84.392067,1
+18020224,02/08/2018,13:00:00,02/08/2018,13:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,,,,14th Street at State,33.778956412500001,-84.401314659600004,1
+18020244,02/11/2018,19:00:00,02/11/2018,19:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,Ethel Street @ Hemphill Avenue,,,,,,1
+18020329,02/20/2018,23:43:00,02/21/2018,00:54:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,West Peachtree Street  NW at North Avenue  NW,,,,,,1
+18030502,03/13/2018,11:15:00,03/13/2018,11:28:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,Library,704,,Cherry Street NW,,,1
+18030522,03/15/2018,15:45:00,03/15/2018,15:55:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,North Avenue NW @ Techwood Drive NW,,,,,,1
+18030586,03/23/2018,23:38:00,03/24/2018,00:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,,,,Fifth Street NW / Williams Street NW,,,1
+18030615,03/27/2018,09:07:00,03/27/2018,09:50:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,,,1
+18030621,01/20/2018,08:30:00,02/05/2018,13:45:00,2317,Larceny - Bicycle,Inactive,,ONCAM,Z3,Clough Building,266,,Fourth Street  NW,33.7741360837,-84.398818020899995,1
+18030641,03/28/2018,23:40:00,03/29/2018,23:59:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Peters Parking Deck,749,,Fowler Street  NW,33.774974616999998,-84.393527398299995,1
+18010080,01/16/2018,23:30:00,01/17/2018,01:29:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z3,,,,,,,1
+18010095,01/17/2018,17:00:00,01/17/2018,18:00:00,5309,Harassing Communication,Closed/Cleared,Prosecution Declined,ONCAMRES,Z1,Graduate Living Center,301,,Tenth Street  NW,33.778956412500001,-84.401314659600004,1
+18010109,01/21/2018,20:12:00,01/21/2018,20:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments - East,120,,North Avenue  NW,,,1
+18010129,01/24/2018,22:09:00,01/24/2018,23:48:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Success Center,219,,Uncle Heinie Way  NW,33.7724411084,-84.393952014,1
+18010149,01/27/2018,22:27:00,01/27/2018,23:45:00,2699,Fraudulent Activity Offense Free ,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ 8th Street  NW,,,,,,1
+18020262,02/13/2018,16:03:00,02/13/2018,20:53:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Pettit Microelectronics Research Ctr. (MiRC) 95  Z3,791,,Atlantic Drive NW,33.7766141591,-84.3973299091,1
+18020297,02/17/2018,19:23:00,02/17/2018,20:15:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive @ Ethel Street,,,,,,1
+18030439,03/03/2018,22:44:00,03/03/2018,22:55:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Williams Street  NW and Tenth Street  NW,,,,,,1
+18030456,03/06/2018,16:18:00,03/06/2018,16:19:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Technology Square Research Building,85,,Fifth Street  NW,33.7772881,-84.3900368,1
+18030593,03/24/2018,23:34:00,03/24/2018,23:50:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Williams Street  NW @ North Avenue  NW,,,,33.771284,-84.387423,1
+18040681,04/02/2018,16:30:00,04/02/2018,,9999F,,Closed/Cleared,,ONCAM,Z2,NAA Dining Hall,120,,North Avenue  NW,33.77101,-84.3913,1
+18040869,04/23/2018,11:30:00,04/23/2018,11:40:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18010027,01/08/2018,14:07:00,01/08/2018,14:07:00,9999,Non-Crime (not reported to state),Closed/Cleared,Cleared by Arrest,ONCAM,Z1,Ford Environmental  Science & Technology,311,,Ferst Drive NW,,,1
+18010047,01/10/2018,17:30:00,01/11/2018,06:00:00,2902,Damage to Property - Private,Further Investigation,,NONCAM,Z2,Delta Sigma Phi Fraternity,165,,4th Street  NW,,,1
+18010085,01/17/2018,23:00:00,01/18/2018,03:24:00,9999,Non-Crime (not reported to state),Closed/Cleared,,oncamres,Z2,Alpha Chi Omega Sorority,741,,Brittain Drive  NW,33.7748952951,-84.3928284945,1
+18010103,01/20/2018,21:14:00,01/20/2018,21:21:00,2803,Theft by Receiving Stolen Property,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ Lambert Street  NW,,,,,,1
+18010119,01/23/2018,17:35:00,01/23/2018,17:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Nanotechnology Building,345,,Ferst Drive NW,,,1
+18010123,01/24/2018,09:31:00,01/24/2018,10:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Family Apartments   180   Z1,251,,Tenth Street NW,33.782380022799998,-84.395955559699999,1
+18010143,01/21/2018,13:00:00,01/26/2018,17:57:00,9999,Non-Crime (not reported to state),Closed/Cleared,Prosecution Declined,ONCAM,Z2,Smith Lot Behind Brown Residence Hall,600,BK,Techwood Drive,,,1
+18010158,01/29/2018,17:20:00,01/29/2018,17:27:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,,,Techwood Drive NW / North Avenue NW,33.771310,-84.392067,1
+18020260,02/13/2018,12:50:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Student Health Center   177   Z4,740,,Ferst Drive NW,33.774833656299997,-84.403110789999999,1
+18020269,02/15/2018,03:50:00,02/15/2018,03:54:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z3,Pi Kappa Alpha Fraternity,260,,Ferst Drive NW,33.77673,-84.3952623,1
+18020336,02/22/2018,01:14:00,02/22/2018,01:40:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ 14th Street  NW,,,,,,1
+18020342,02/22/2018,13:30:00,02/22/2018,14:30:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z1,Motor Pool Building Lot,306,,Tenth Street NW,33.780988,-84.397385,1
+18010074,01/15/2018,20:44:00,01/15/2018,21:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Gray House/Hayes House,733,,Techwood Drive NW,,,1
+18010089,01/18/2018,15:33:00,01/18/2018,15:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Klaus Advanced Computing Building,266,,Ferst Drive  NW,,,1
+18010157,01/28/2018,14:30:00,01/28/2018,15:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z1,,,,,33.778956412500001,-84.401314659600004,1
+18010166,01/30/2018,17:29:00,01/30/2018,18:15:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,,,1
+18020265,02/14/2018,15:18:00,02/14/2018,15:36:00,9999,Non-Crime (not reported to state),Further Investigation,,PUB,Z1,Ferst Drive @ Fowler Street NW,,,,,,1
+18020301,02/18/2018,01:50:00,02/18/2018,02:29:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,,,,Techwood Drive @ Fourth Street NW,33.775156,-84.391976,1
+18020302,02/18/2018,19:45:00,02/18/2018,20:01:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCLERY,OFFCAM,Tenth Street  NW @ Williams Street  NW,,,,,,2
+18020323,02/20/2018,13:21:00,02/20/2018,13:22:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street  NW,33.77668,-84.38863,1
+18020324,02/17/2018,15:36:00,02/20/2018,14:16:00,2902,Damage to Property - Private,Closed/Cleared,Prosecution Declined,ONCAM,Z4,Bobby Dodd Stadium,155,,North Avenue  NW,,,1
+18020341,02/20/2018,16:00:00,02/21/2018,08:30:00,9999,Non-Crime (not reported to state),Inactive,,ONCAM,Z2,Centergy Building,75,NW,Fifth Street NW,,,1
+18020343,02/22/2018,15:26:00,02/22/2018,15:57:00,9999,Non-Crime (not reported to state),Closed/Cleared,Prosecution Declined,NONCAM,Z2,,,,Fifth Street @ Williams Street NW,,,1
+18030517,03/15/2018,08:25:00,03/15/2018,08:40:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,33.781002596500002,-84.400371163599999,1
+18030600,03/16/2018,08:00:00,03/25/2018,13:00:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA North Parking Deck   191   Z2,120,,North Avenue NW,33.770600,-84.391865,1
+18010018,01/05/2018,16:51:00,01/05/2018,16:51:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Ferst Drive NW near Cherry Emerson Building,,,,,,1
+18010067,01/14/2018,00:20:00,01/14/2018,00:51:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW @ Tenth Street  NW,,,,33.781583,-84.407442,1
+18010081,01/17/2018,13:16:00,01/17/2018,13:39:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Howell Residence Hall   10   Z2,640,,Williams Street NW,33.7721357088,-84.390984129200007,1
+18010104,01/20/2018,22:45:00,01/20/2018,23:13:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Fourth Street Apartments,733,,Techwood Drive  NW,,,1
+18020187,02/01/2018,23:45:00,02/01/2018,23:45:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Towers Residence Hall,112,,Bobby Dodd Way NW,,,1
+18020206,02/04/2018,09:40:00,02/04/2018,10:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,OFFCAM,North Avenue @ Techwood Drive NW,,,,33.771310,-84.392067,1
+18020211,02/03/2018,15:00:00,02/05/2018,19:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons  166  Z2,266,,Fourth Street NW,33.774681795699998,-84.396379388400007,1
+18020226,02/08/2018,16:38:00,02/08/2018,17:45:00,5499,Traffic Offense (describe offense),Closed/Cleared,,NONCAM,Z4, Northside Drive  NW @ Marietta Street  NW,,,,,,1
+18020242,02/11/2018,01:30:00,02/11/2018,02:00:00,2399,Larceny Offense Free Text,Closed/Cleared,Unfounded,NONCAM,Z3,Sigma Alpha Epsilon Fraternity   323  Z3,221,,Fourth Street NW,33.776093423900001,-84.394534182499996,1
+18020246,02/11/2018,19:33:00,02/11/2018,19:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,,,,State Street  NW and Calhoun Street  NW,33.781957443700001,-84.396605664800006,1
+18020387,02/26/2018,13:56:00,02/26/2018,14:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18030436,03/03/2018,16:18:00,03/03/2018,16:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Recreation Center Parking Deck,750,,Ferst Drive  NW,33.7761907622,-84.4039071741,1
+18010004,01/02/2018,01:02:00,01/02/2018,02:23:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Success Center,219,,Uncle Heinie Way NW,,,1
+18010012,01/03/2018,21:55:00,01/03/2018,22:05:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,PUB,OFFCAM,Northside Drive  NW @ 14th Street  NW,,,,,,1
+18010024,01/07/2018,18:00:00,01/07/2018,22:31:00,2902,Damage to Property - Private,Closed/Cleared,Unfounded,ONCAM,Z4,Campus Recreation Center Parking Deck,750,,Ferst Drive NW,33.7761907622,-84.4039071741,1
+18010044,01/10/2018,18:51:00,01/10/2018,18:53:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Family Apartments,251,,Tenth Street  NW,33.782380022799998,-84.395955559699999,1
+18010053,01/12/2018,13:57:00,01/12/2018,14:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Fifth Street NW @ Techwood Drive NW,,,,,,1
+18010059,01/13/2018,00:56:00,01/13/2018,00:57:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,North Avenue NW @ Centennial Olympic Park Drive NW,,,,,,1
+18010073,01/15/2018,19:48:00,01/15/2018,20:00:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,,,,,,,1
+18020196,02/03/2018,05:29:00,02/03/2018,06:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Zbar Residence Hall (Sixth St. East Apts.)  65  Z4,501,,Sixth Street NW,33.777707,-84.404826,1
+18020248,02/11/2018,20:00:00,02/11/2018,20:36:00,2903,Damage to Property - Public,Inactive,,PUB,Z1,,,,10th Street  NW and Fowler Street  NW,33.778956412500001,-84.401314659600004,1
+18020253,02/12/2018,11:48:00,02/12/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Price Gilbert Memorial Libary,704,,Cherry Street NW,,,1
+18020273,02/15/2018,12:00:00,02/15/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18020282,02/16/2018,07:07:00,,,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z4,Campus Recreation Center   160   Z4,750,,Ferst Drive NW,33.775464005800004,-84.403499012599994,1
+18010054,01/12/2018,14:35:00,01/12/2018,14:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments - East,120,,North Avenue  NW,,,1
+18010070,01/14/2018,18:18:00,01/14/2018,19:26:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,PUB,Z1,,980,,Northside Drive NW,,,1
+18010083,01/17/2018,18:05:00,01/17/2018,18:46:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Harrison Residence Hall,660,,Williams Street NW,,,1
+18010096,01/19/2018,15:26:00,01/19/2018,15:26:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,,,,Fowler Street NW @ Eighth Street NW,,,1
+18010135,01/25/2018,12:30:00,01/25/2018,12:58:00,2317,Larceny - Bicycle,Inactive,,ONCAM,Z1,Institute of Paper Science 2 (IPST2),575,,Fourteenth Street  NW,,,1
+18020278,02/15/2018,17:35:00,02/15/2018,17:37:00,2308,Larceny - From Building,Inactive,,ONCAM,Z3,Student Center  -Commons,351,,Ferst Drive NW,,,1
+18020296,02/17/2018,15:58:00,02/17/2018,16:02:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18020303,02/18/2018,22:06:00,02/18/2018,22:50:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street  NW @ State Street  NW,,,,,,2
+18020413,02/28/2018,22:35:00,02/28/2018,22:46:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments; South,939,,Hemphill Avenue NW,,,1
+18030418,02/26/2018,12:00:00,03/01/2018,16:00:00,2602,Fraud - Swindle,Further Investigation,,NONCAM,Z1,Beringause Building,879,,Hemphill Avenue NW,,,1
+18030426,03/01/2018,13:10:00,03/01/2018,13:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Howey Physics,800,,Atlantic Drive NW,,,1
+18030446,03/05/2018,15:30:00,03/05/2018,15:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18030639,03/28/2018,20:52:00,03/28/2018,22:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Northside Drive  NW @ Fourteenth Street  NW,,,,,,1
+18020190,02/01/2018,15:32:00,02/01/2018,21:11:00,2308,Larceny - From Building,Inactive,,ONCAM,Z1,Engineered Biosystems Building (EBB)   195   Z1,950,,Atlantic Drive NW,33.780819,-84.397985,1
+18020250,02/12/2018,07:10:00,02/12/2018,07:19:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Nelson and Shell Undergraduate Living Center  64   Z4,580,,Turner Place NW,33.778174184100003,-84.405482175900005,1
+18020255,02/12/2018,11:30:00,02/12/2018,14:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library   77   Z2,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18020275,02/15/2018,16:38:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,Unfounded,ONCAM,Z2,Economic Development Building   173   Z2,760,,Spring Street  NW,33.7754955647,-84.3890832581,1
+18020331,02/15/2018,12:00:00,02/15/2018,13:30:00,2308,Larceny - From Building,Inactive,,ONCAM,Z2,Georgia Tech Libary,266,,Fourth Street,33.778956412500001,-84.401314659600004,1
+18020333,02/21/2018,16:29:00,02/21/2018,17:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,North Avenue  NW and Tech Parkway  NW,,,,,,1
+18020350,02/22/2018,23:36:00,02/22/2018,23:48:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,PUB,Z3,Cherry Emerson Building,310,,Ferst Drive  NW,33.777931481499998,-84.397207011700004,1
+18020400,02/27/2018,23:43:00,02/28/2018,00:30:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Sixteenth Street  NW @ Northside Drive  NW,,,,,,1
+18030454,03/05/2018,15:00:00,03/06/2018,15:15:00,2304,Larceny - Parts from Vehicle,Inactive,,ONCAM,Z4,Digital Fabrication Lab,676,,Marietta Street  NW,33.7716421019,-84.4015870619,1
+18030474,03/08/2018,10:30:00,03/08/2018,11:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,,,1
+18030496,03/10/2018,19:00:00,03/12/2018,21:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,NAA Dining Hall,120,,North Avenue,33.77101,-84.3913,1
+18040913,04/28/2018,03:15:00,04/28/2018,03:19:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA Turnaround,120,,North Avenue NW,,,1
+18050994,05/06/2018,11:09:00,05/06/2018,11:15:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,120,,North Avenue  NW,,,1
+18030602,03/26/2018,10:34:00,03/26/2018,10:34:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Services Building,353,,Ferst Drive  NW,33.774350440299997,-84.399552469699998,1
+18030657,03/30/2018,13:00:00,03/30/2018,14:00:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Savant Building,631,,Cherry Street NW,33.772087451399997,-84.395266793499999,1
+18040799,04/14/2018,20:47:00,04/14/2018,23:40:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,North Avenue  NW @ State Street  NW,,,,,,1
+18040809,04/10/2018,15:00:00,04/10/2018,15:30:00,2399,Larceny Offense Free Text,Further Investigation,,ONCAM,Z4,Printing and Copying Services   138   Z4,811,,Marietta Street NW,33.7747282547,-84.4054739197,1
+18040829,04/18/2018,13:00:00,04/18/2018,13:45:00,2308,Larceny - From Building,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Scheller College of Business,800,,West Peachtree Street NW,,,1
+18040853,04/20/2018,16:26:00,04/20/2018,16:32:00,3512,Heroin - Possession Of,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Student Center Commons,301,,Ferst Drive  NW,33.7741360837,-84.398818020899995,1
+18040873,04/24/2018,02:16:00,04/24/2018,02:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Nanotechnology Building,345,,Ferst Drive,33.7788451431,-84.3984765761,1
+18040906,04/27/2018,16:00:00,04/27/2018,16:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,North Campus Parking Deck,,,STATE ST NW,33.780134924599999,-84.398447156000003,1
+18040926,04/30/2018,13:51:00,04/30/2018,14:06:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Alpha Gamma Delta,177,,Ferst Drive  NW,,,1
+18050935,03/28/2018,06:50:00,05/01/2018,06:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Student Health Center   177   Z4,740,,Ferst Drive  NW,33.774833656299997,-84.403110789999999,1
+18050947,04/26/2018,16:05:00,05/02/2018,17:30:00,2308,Larceny - From Building,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,D.M. Smith Building,685,,Cherry Street NW,,,1
+18030452,03/06/2018,02:30:00,03/06/2018,03:44:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Waffle House,66,,Fifth Street  NW,33.776725,-84.389468,1
+18030504,03/11/2018,08:00:00,03/11/2018,08:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Center,266,,Fourth Street  NW,,,1
+18030524,03/09/2018,12:30:00,03/10/2018,08:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Manufacturing Research Center,831,,Ferst Drive NW,,,1
+18030544,03/17/2018,03:12:00,03/17/2018,03:40:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Perry-Matheson Residence Hall,715,,Techwood Drive NW,,,1
+18040677,04/02/2018,15:04:00,04/02/2018,15:07:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center,350,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18040769,04/12/2018,11:17:00,04/13/2018,11:52:00,5499,Traffic Offense (describe offense),Closed/Cleared,,ONCAM,Z4,Ferst Drive  NW @ Hemphill Avenue  NW,,,,,,1
+18040801,04/15/2018,02:00:00,04/15/2018,02:00:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,PUB,Z1,Richards Street at Mecaslin Street,,,,,,1
+18040841,04/19/2018,09:48:00,04/19/2018,10:10:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAMRES,Z1,Theta Chi Fraternity  328   Z1,840,,Techwood Drive NW,33.777619340000001,-84.392350068100001,1
+18040859,04/21/2018,03:36:00,04/21/2018,04:53:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Perry Matheson Residence Hall,715,,Techwood Drive,33.7745062595,-84.39133,1
+18040879,04/18/2018,18:45:00,04/19/2018,18:00:00,2308,Larceny - From Building,Further Investigation,,ONCAMRES,Z2,Alpha Phi Sorority House,713,,Brittain Drive NW,,,1
+18040884,04/25/2018,09:40:00,04/25/2018,09:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA South  191  Z2,120,,North Avenue  NW,33.76932,-84.39182,1
+18040910,04/27/2018,13:30:00,04/27/2018,22:48:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Campanile green space,350,,Block Ferst Drive,33.7758785,-84.3916619,1
+18010003,01/01/2018,16:27:00,01/01/2018,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Molecular Science & Engineering Building,901,,Atlantic Drive NW,,,1
+18010023,01/07/2018,00:00:00,01/07/2018,04:00:00,2902,Damage to Property - Private,Closed/Cleared,Victim/Witness Refused to Cooperate,NONCAM,Z2,Kappa Alpha Fraternity,801,,Techwood Drive  NW,33.7765130647,-84.3916827264,1
+18010043,01/10/2018,19:49:00,01/10/2018,20:20:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Fourteenth Street  NW @ Tumlin Street  NW,,,,,,1
+18010101,01/20/2018,08:56:00,01/20/2018,09:00:00,2204,Burglary - No Forced Entry - Residence,Inactive,,NONCAM,Z2,,,,,,,1
+18010121,01/23/2018,19:55:00,01/23/2018,20:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,,,,,,,1
+18010141,01/26/2018,05:00:00,01/26/2018,10:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium   17   Z2,155,,North Avenue NW,33.771865,-84.393316,1
+18020192,02/02/2018,15:02:00,02/02/2018,16:32:00,2903,Damage to Property - Public,Closed/Cleared,,ONCAM,Z2,Peters Parking Deck,749,,Fowler Street  NW,,,1
+18020203,02/04/2018,01:41:00,02/04/2018,02:09:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Hanson Residence Hall,109,,Bobby Dodd Way NW,33.7741941966,-84.390936214000007,1
+18020243,02/11/2018,18:00:00,02/11/2018,19:40:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,,,2
+18020254,02/12/2018,11:21:00,02/12/2018,11:21:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Tech Green   358   Z3,725,,Atlantic Drive NW,33.77464,-84.39732,1
+18020274,01/16/2018,02:00:00,02/15/2018,16:26:00,2605,Fraud - Illegal Use of Credit/Financial Transaction Cards,Closed/Cleared,Unfounded,ONCAMRES,Z2,North Avenue Apartments,120,,North Avenue NW,,,1
+18020314,02/19/2018,17:34:00,02/19/2018,18:24:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,Tenth Street @ Northside Drive NW,,,1
+18020402,02/28/2018,08:41:00,02/28/2018,09:00:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,PUB,Z2,Waffle House,66,,Fifth Street NW,33.776725,-84.389468,1
+18010042,01/10/2018,09:30:00,01/10/2018,09:31:00,1313,Simple Assault/Battery,Inactive,,NONCAM,Z2,,155,,North Avenue NW,,,1
+18010077,01/08/2018,14:30:00,01/16/2018,16:46:00,2605,Fraud - Illegal Use of Credit/Financial Transaction Cards,Closed/Cleared,,ONCAM,Z1,,,,,,,1
+18010153,01/28/2018,03:15:00,01/28/2018,03:29:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z1,Ferst Drive  NW @ Fowler Street  NW,,,,,,1
+18010173,01/31/2018,10:00:00,01/31/2018,10:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Campus Recreation Center,750,,Ferst Drive  NW,,,1
+18020185,02/01/2018,17:40:00,02/01/2018,18:35:00,9999V,,Further Investigation,,PUB,Z2,,,,North Avenue @ Techwood Drive NW,,,1
+18020236,02/09/2018,22:32:00,02/09/2018,22:50:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z1,Graduate Living Center,301,,Tenth Street NW,,,1
+18020281,02/16/2018,04:38:00,02/16/2018,04:38:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCLERY,OFFCAM,Westin Hotel,210,,Peachtree Street NW,,,1
+18020294,02/17/2018,02:17:00,02/17/2018,02:45:00,5499,Traffic Offense (describe offense),Closed/Cleared,,PUB,OFFCAM,Fourteenth Street  NW @ Techwood Drive  NW,,,,,,1
+18020404,02/07/2018,18:00:00,02/07/2018,19:00:00,2308,Larceny - From Building,Inactive,,ONCAM,Z1,Ford Envir. Science & Technology,311,,Ferst Drive NW,,,1
+18030579,03/23/2018,10:00:00,03/23/2018,10:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,State Street NW @ Ferst Drive NW,,,,33.780013433699999,-84.399502580299995,1
+18040736,04/09/2018,07:40:00,04/09/2018,08:05:00,3699,Sex Offense Free Text,Inactive,,ONCAM,Z2,North Avenue Lot,200,,North Avenue NW,,,1
+18040781,04/13/2018,01:10:00,04/13/2018,02:15:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z3,Clydeck   54  Z3,391,,Ferst Drive NW,33.774173099499997,-84.400583143299997,1
+18040860,04/21/2018,02:57:00,04/21/2018,03:22:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z1,Ferst Drive  NW @ Dalney Street  NW,,,,33.778419,-84.399965,1
+18020371,02/23/2018,23:00:00,02/24/2018,12:53:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Boggs Lot,770,,State Street  NW,33.778956412500001,-84.401314659600004,1
+18020374,02/25/2018,00:23:00,02/25/2018,02:29:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,33.781530,-84.393571,1
+18020399,02/27/2018,14:00:00,02/27/2018,18:30:00,2308,Larceny - From Building,Inactive,,ONCAM,Z1,Ford Envir. Science & Technology,311,,Ferst Drive NW,,,1
+18030483,03/11/2018,23:33:00,03/12/2018,00:15:00,5499,Traffic Offense (describe offense),Closed/Cleared,,NONCLERY,OFFCAM,Northside Drive  NW @ Tenth Street  NW,,,,,,1
+18030499,03/13/2018,00:55:00,03/13/2018,01:15:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Prosecution Declined,PUB,Z4,Northside Drive  NW @ Tenth Street  NW,,,,,,1
+18030516,03/15/2018,01:26:00,03/15/2018,02:45:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue NW,,,1
+18030559,03/20/2018,13:42:00,03/20/2018,13:55:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Peters Parking Deck   8   Z2,749,,Fowler Street NW,33.774974616999998,-84.393527398299995,1
+18030580,03/23/2018,05:40:00,03/23/2018,10:42:00,2305,Larceny - Articles from Vehicle,Inactive,,ONCAM,Z2,Roosevelt Parking Lot,582,,Centennial Olympic Drive  NW,,,1
+18030592,03/24/2018,22:35:00,03/24/2018,22:48:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue NW,,,1
+18030670,03/31/2018,23:38:00,03/31/2018,23:39:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Folk Residence Hall,531,,Turner Place NW,,,1
+18040709,04/06/2018,06:20:00,04/06/2018,06:21:00,2903,Damage to Property - Public,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Upper Peter's Parking Deck,749,,Fowler Street,,,1
+18040723,04/07/2018,06:50:00,04/07/2018,07:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,Bobby Dodd Way @ Techwood Drive,,,,33.773942,-84.392003,1
+18030627,03/27/2018,20:11:00,03/27/2018,20:18:00,9999V,,Closed/Cleared,,ONCAM,Z3,Emergency Phone,,,,,,1
+18030647,03/29/2018,09:25:00,,,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,College of Computing   50   Z3,801,,Atlantic Drive NW,33.777409087999999,-84.397291573199993,1
+18040803,04/15/2018,04:19:00,04/15/2018,04:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Towers Residence Hall,112,,Bobby Dodd Way  NW,,,1
+18040823,04/17/2018,22:10:00,04/17/2018,23:47:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Daniel Laboratory,200,,Bobby Dodd Way,33.773706216,-84.3939920363,1
+18040843,04/19/2018,09:00:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments   132  Z1,939,,Hemphill Avenue NW,33.780051239800002,-84.401987856700003,1
+18040866,04/22/2018,17:38:00,04/22/2018,17:55:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Fifth Street NW   at Spring Street  NW,,,,,,1
+18050939,05/01/2018,22:51:00,05/01/2018,23:06:00,5299,Weapons Violation Offense Free Text,Inactive,,PUB,Z2,,,,,,,1
+18050998,05/07/2018,14:10:00,05/07/2018,14:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18051049,05/12/2018,17:37:00,05/12/2018,18:27:00,2408,Possession of Stolen Vehicle,Closed/Cleared,Cleared by Arrest,NONCLERY,,North Avenue  NW @ Spring Street  NW,,,,,,1
+18010020,01/06/2018,21:54:00,01/06/2018,21:56:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18010040,01/10/2018,16:25:00,01/10/2018,16:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Student Health Center,740,,Ferst Drive NW,,,1
+18010061,01/13/2018,01:36:00,01/13/2018,01:49:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Pi Kappa Phi Fraternity   336   Z3,220,,Ferst Drive NW,33.7766739637,-84.3943048516,1
+18010112,01/22/2018,12:35:00,01/22/2018,12:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Georgia Tech Library,266,NW,4TH ST NW,33.77668,-84.38863,1
+18010140,01/26/2018,11:18:00,01/26/2018,11:22:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18010151,01/28/2018,01:33:00,01/28/2018,01:55:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Cloudman Residence Hall,661,,Techwood Drive NW,33.772797287899998,-84.391622187999999,1
+18020208,02/05/2018,10:09:00,02/05/2018,11:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Paper Tricentennial Building   129   Z4,500,,Tenth Street NW,33.780977913800001,-84.404545426400006,1
+18020228,02/09/2018,00:30:00,02/09/2018,00:45:00,9999V,,Further Investigation,,ONCAM,Z4,,,,Tech Parkway,,,2
+18020230,02/09/2018,08:00:00,02/09/2018,10:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,Bobby Dodd Stadium   17   Z2,155,,North Avenue  NW,33.771865,-84.393316,1
+18020284,02/16/2018,10:20:00,02/16/2018,10:20:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,33.781564,-84.391040,1
+18020330,02/20/2018,15:41:00,02/20/2018,17:41:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z1,Student Center Commons,351,,Ferst Drive,33.778956412500001,-84.401314659600004,1
+18020367,02/24/2018,00:02:00,02/24/2018,00:50:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM, Fourteenth Street  NW @ Northside Drive  NW,,,,,,1
+18030484,03/11/2018,06:00:00,03/11/2018,14:10:00,2902,Damage to Property - Private,Inactive,,ONCAM,Z4,Technology Enterprise Park #1,387,,Technology Circle NW,,,1
+18030491,03/12/2018,08:10:00,03/12/2018,17:00:00,9999,Non-Crime (not reported to state),Further Investigation,,NONCAM,,,,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18030503,03/11/2018,17:00:00,03/13/2018,13:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments,120,,North Avenue  NW,33.770119840900001,-84.391353516400002,1
+18030543,03/16/2018,22:42:00,03/16/2018,22:42:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,Tenth Street  NW & Hemphill Avenue  NW,,,2
+18030558,03/20/2018,12:00:00,03/20/2018,12:02:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Library,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18030578,03/23/2018,08:50:00,03/23/2018,09:10:00,2305,Larceny - Articles from Vehicle,Inactive,,ONCAM,Z1,McCamish Pavilion Lot,965,,Fowler Street,33.7804368,-84.39183,1
+18030658,03/29/2018,07:45:00,03/29/2018,16:15:00,2434,Theft of Other Vehicle,Inactive,,ONCAM,Z2,Montgomery Knight Building  (SST II),270,,Ferst Drive NW,,,1
+18040676,04/02/2018,12:50:00,04/02/2018,12:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,,Z2,Beringause Building,879,,Hemphill Avenue NW,,,1
+18040734,04/08/2018,20:00:00,04/08/2018,21:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Crecine Residence Hall,900,,Hemphill Avenue NW,33.780057100599997,-84.403518928400004,1
+18040756,04/10/2018,17:00:00,04/10/2018,17:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Georgia Tech Parking & Transportaion,329,,peachtree,,,2
+18040776,04/12/2018,20:01:00,04/12/2018,20:28:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Nelson and Shell Undergraduate Center,580,,Turner Place  NW,,,1
+18050944,04/20/2018,08:00:00,04/22/2018,10:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Klaus Parking Deck,266,,Ferst Drive NW,,,1
+18050934,05/01/2018,12:17:00,05/01/2018,12:17:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Clough Undergraduate Learning Commons,266,,Fourth Street NW,33.774681795699998,-84.396379388400007,1
+18050955,02/04/2018,22:00:00,02/05/2018,12:00:00,2308,Larceny - From Building,Inactive,,ONCAM,Z4,Campus Recreation Center,750,,Ferst Drive  NW,,,1
+18050967,05/04/2018,04:58:00,05/04/2018,04:59:00,5707,Criminal Trespass,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Alumni Faculty House,190,,North Avenue NW,,,1
+18050970,05/03/2018,17:40:00,05/03/2018,17:43:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z2,Georgia Tech Hotel & Conference Center,800,,Spring Street  NW,33.776343252300002,-84.389307920199997,1
+18050975,05/04/2018,23:43:00,05/05/2018,00:09:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCAM,OFFCAM,Northside Drive @ Donald Lee Hollowell Parkway,,,,,,1
+18051045,05/11/2018,18:48:00,05/11/2018,19:25:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Ferst Drive  NW  and Cherry Street  NW,,,,,,1
+18051090,05/16/2018,14:00:00,05/17/2018,09:25:00,2903,Damage to Property - Public,Further Investigation,,ONCAM,Z3,Manufacturing Rel. Disc. Complex (MRDC)   135  Z3,801,,Ferst Drive NW,33.7769679179,-84.400502691,1
+18020391,02/26/2018,15:00:00,02/26/2018,15:30:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z4,Student Health Center,740,,Ferst Drive NW,,,1
+18020412,02/28/2018,22:04:00,02/28/2018,22:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Maulding Residence Hall,501,,Sixth Street  NW,33.777007,-84.405706,1
+18030450,03/05/2018,18:00:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Skiles Classroom Building,686,,Cherry Street  NW,,,1
+18030455,03/06/2018,15:09:00,03/06/2018,18:18:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Skiles Classroom Building,686,,Cherry Street NW,,,1
+18030475,03/05/2018,20:00:00,03/05/2018,20:05:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,Ferst Drive NW @ Fowler Street NW,,,,,,1
+18030539,03/16/2018,20:28:00,03/16/2018,20:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Chandler Stadium,255,,Ferst Drive NW,,,1
+18030576,03/22/2018,19:22:00,03/22/2018,22:00:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCAM,Z2,Centergy One Parking Deck @ Tech Square,85,,Fifth Street  NW,,,1
+18030587,03/21/2018,15:00:00,03/22/2018,22:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,OFFCAM,,797,,Fayetteville Road  SE,,,1
+18030649,03/28/2018,09:00:00,03/28/2018,17:00:00,2317,Larceny - Bicycle,Closed/Cleared,Prosecution Declined,ONCAM,Z3,Cherry Emerson Building,310,,Ferst Drive  NW,33.777931481499998,-84.397207011700004,1
+18040680,04/02/2018,15:50:00,04/02/2018,17:07:00,9999V,,Further Investigation,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,,,1
+18040768,04/12/2018,10:30:00,04/12/2018,11:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Manufacturing Research Center (MaRC)   126  Z3,813,,Ferst Drive NW,33.777599309800003,-84.401342849200006,1
+18040800,04/15/2018,01:54:00,04/15/2018,02:30:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Harrison Residence Hall,660,,Williams Street  NW,,,1
+18040802,04/15/2018,02:29:00,04/15/2018,02:56:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Cloudman Residence Hall,661,,Techwood Drive NW,,,1
+18030546,03/17/2018,10:20:00,03/17/2018,11:22:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z2,Techwood Drive @ North Avenue,,,,33.771273,-84.392061,1
+18030577,03/22/2018,21:07:00,03/22/2018,21:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z4,Tenth Street  NW @ Northside Drive  NW,,,,33.781583,-84.407442,1
+18040731,04/07/2018,22:45:00,04/08/2018,14:15:00,2902,Damage to Property - Private,Inactive,,ONCAM,Z2,Smith Lot Behind Brown Residence Hall Parking Lot,600,BK,Techwood Drive,,,1
+18040797,04/14/2018,19:51:00,04/14/2018,20:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA South,120,,North Avenue NW,,,1
+18040819,04/17/2018,10:37:00,04/17/2018,10:59:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Student Health Center   177   Z4,740,,Ferst Drive NW,33.774833656299997,-84.403110789999999,1
+18040861,04/21/2018,07:34:00,04/21/2018,07:34:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z2,Centergy Building,75,,Fifth Street  NW,,,1
+18040896,04/26/2018,21:07:00,04/26/2018,21:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,West Village Dining Commons,532,,Eighth Street NW,33.779285,-84.404688,1
+18040912,04/28/2018,02:42:00,04/28/2018,03:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments,120,,North Avenue NW,33.770119840900001,-84.391353516400002,1
+18050963,05/03/2018,20:15:00,05/03/2018,20:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Griffin Track   342   Z1,930,,Fowler Street NW,,,1
+18050985,05/05/2018,18:24:00,05/05/2018,19:40:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z4,NARA Building,505,,Tech Way NW,,,1
+18051019,05/09/2018,12:30:00,05/09/2018,13:00:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,,,1
+18030585,03/23/2018,22:33:00,03/23/2018,23:15:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,PUB,Z1,Fourteenth Street  NW @ Center Street  NW,,,,33.786235,-84.402833,1
+18030590,03/17/2018,15:00:00,03/24/2018,21:12:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA North Parking Deck,120,,North Avenue  NW,,,1
+18030618,03/27/2018,10:44:00,03/27/2018,10:44:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,PUB,Z1,,,,,,,1
+18030633,03/28/2018,14:00:00,03/28/2018,14:01:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Parker H. Petit Biotechnology Building (IBB),315,,Ferst Drive NW,33.7789777657,-84.3972618521,1
+18030634,03/28/2018,09:30:00,03/28/2018,09:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Peters Parking Deck   8   Z2,749,,Fowler Street NW,33.774974616999998,-84.393527398299995,1
+18040685,04/02/2018,12:00:00,04/02/2018,15:00:00,2903,Damage to Property - Public,Inactive,,ONCAM,Z2,Smith Building   24   Z2,685,,Cherry Street  NW,33.773645202700003,-84.395148047299998,1
+18040716,04/06/2018,19:59:00,04/06/2018,20:25:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Sidewalk,,,,33.775156,-84.391976,1
+18040754,04/10/2018,12:04:00,,,5311,Disorderly Conduct,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue @ Techwood Drive  Z2,,,,33.771310,-84.392067,1
+18040780,04/13/2018,00:25:00,04/13/2018,00:55:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Folk Residence Hall,531,,Turner Place  NW,33.778916221700001,-84.404839926199998,1
+18050964,05/03/2018,23:56:00,05/04/2018,00:37:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW @ Marietta Street NW,,,,,,1
+18050990,05/06/2018,01:32:00,05/06/2018,02:23:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z4,Ferst Drive  NW @ Regent Drive  NW,,,,,,1
+18051078,05/16/2018,13:00:00,05/16/2018,13:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18040779,04/13/2018,00:00:00,04/13/2018,00:08:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Scheller College of Business,800,,West Peachtree Street  NW,,,1
+18040812,04/16/2018,15:44:00,04/16/2018,16:07:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Phi Gamma Delta Fraternity,841,,Fowler Street NW,,,1
+18040831,04/18/2018,15:03:00,04/18/2018,15:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Glenn Residence Hall,118,,Bobby Dodd Way NW,33.773422072599999,-84.3916112016,1
+18050933,05/01/2018,11:00:00,05/01/2018,11:35:00,9999T,,Closed/Cleared,Prosecution Declined,NONCAM,Z4,,,,,,,1
+18050950,02/15/2018,07:00:00,05/03/2018,08:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,Old Civil Engineering Bldg  58  Z2,221,,Bobby Dodd Way,33.77379,-84.39206,1
+18050988,05/06/2018,00:38:00,05/06/2018,01:05:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z3,Pi Kappa Alpha Fraternity,260,,Ferst Drive NW,,,1
+18050996,05/07/2018,11:17:00,05/07/2018,11:17:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue Dinning Hall,120,,North Avenue  NW,,,1
+18051003,05/08/2018,04:52:00,05/08/2018,05:20:00,7901,Runaway Juvenile,Closed/Cleared,Juvenile/No Custody,ONCAM,Z2,,777,,Techwood Drive  NW,,,1
+18020238,02/10/2018,04:09:00,02/10/2018,05:00:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,711,,Techwood Drive  NW,,,1
+18020261,02/13/2018,13:42:00,02/13/2018,13:44:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,,,1
+18020319,02/20/2018,11:00:00,02/20/2018,11:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18030419,03/01/2018,17:52:00,03/01/2018,18:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Recreation Center   160   Z4,750,,Ferst Drive NW,,,1
+18030424,03/01/2018,15:30:00,03/02/2018,06:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium   17   Z2,155,,North Avenue NW,33.771865,-84.393316,1
+18030444,03/01/2018,08:30:00,03/01/2018,08:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCLERY,OFFCAM,,171,,17th Street,,,1
+18030458,03/07/2018,11:30:00,03/07/2018,11:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Student Health Center,740,,Ferst Drive NW,33.774833656299997,-84.403110789999999,1
+18030478,03/10/2018,01:17:00,03/10/2018,02:15:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Third Street @ Techwood Drive,,,,33.771707325999998,-84.3912515496,1
+18030512,03/06/2018,13:30:00,03/06/2018,15:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Health Center,740,,Ferst Drive  NW,,,1
+18030663,03/31/2018,02:15:00,03/31/2018,02:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Towers Residence Hall,112,,Bobby Dodd Way NW,,,1
+18040691,04/03/2018,19:21:00,04/03/2018,19:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Howey Physics Building   Parking Lot,800,,Atlantic Drive NW,33.7774229491,-84.398467142599998,1
+18040705,04/05/2018,17:05:00,04/05/2018,17:23:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,,,,,,,2
+18040712,04/06/2018,12:49:00,04/06/2018,12:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Spring Street NW near Fifth Street NW,,,,,,1
+18030443,03/04/2018,13:00:00,03/04/2018,14:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Ford Envir. Science & Technology  147  Z1,311,,Ferst Drive NW,33.778896623599998,-84.396036089199995,1
+18030515,03/14/2018,22:23:00,03/14/2018,23:30:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW @ Eighth Street  NW,,,,,,1
+18030540,03/16/2018,10:00:00,03/16/2018,17:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Campus Recreation Center,750,,Ferst Drive,33.777615084600001,-84.394826599200002,1
+18030567,03/22/2018,08:37:00,03/22/2018,09:18:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,,,1
+18030603,03/26/2018,12:54:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18040699,04/05/2018,00:52:00,04/05/2018,01:28:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Hanson Residence Hall,109,,Bobby Dodd Way,33.7741941966,-84.390936214000007,1
+18040701,04/04/2018,16:23:00,04/05/2018,07:30:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z1,Molecular Science & Engineering Building   167   Z1,901,,Atlantic Drive NW,33.779838599599998,-84.396693261400003,1
+18040710,04/06/2018,07:54:00,05/06/2018,16:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18040721,04/07/2018,00:01:00,04/07/2018,00:05:00,5299,Weapons Violation Offense Free Text,Inactive,,NONCAM,Z1,Kappa Sigma Fraternity,182,,Sixth Street NW,33.777920385900003,-84.393200189599995,1
+18040741,04/07/2018,13:00:00,04/09/2018,18:27:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,College of Architecture-West Wing   75   Z3,247,,Fourth Street NW,,,1
+18040808,04/16/2018,08:15:00,04/16/2018,09:00:00,2589,Forgery Offense Free Text,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,,,1
+18020300,02/17/2018,15:50:00,02/17/2018,22:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Instructional Center,759,,Ferst Drive,,,1
+18020305,02/19/2018,02:16:00,02/19/2018,02:44:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments,939,,Hemphill Avenue NW,,,1
+18020320,02/20/2018,11:30:00,02/20/2018,11:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18020325,02/20/2018,17:15:00,02/20/2018,17:25:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Cherry Emerson Building,310,,Ferst Drive NW,33.777931481499998,-84.397207011700004,1
+18030420,03/01/2018,23:58:00,03/01/2018,23:59:00,5499,Traffic Offense (describe offense),Closed/Cleared,,PUB,Z2,North Avenue NW @ Cherry Street NW,,,,,,1
+18030425,03/02/2018,11:48:00,03/02/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18030445,03/05/2018,11:40:00,03/05/2018,12:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street  NW,33.77668,-84.38863,1
+18030506,03/13/2018,21:16:00,03/13/2018,,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,10th Street  NW @ Hemphill Avenue  NW,,,,,,1
+18030530,03/15/2018,19:30:00,03/16/2018,08:00:00,2199,Extortion Offense Free Text,Further Investigation,,NONCAM,Z1,,100,,Tenth Street NW,33.778956412500001,-84.401314659600004,1
+18030606,03/26/2018,14:24:00,03/26/2018,14:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Boggs Building,770,,State Street  NW,,,1
+18030612,03/26/2018,23:09:00,03/27/2018,00:17:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,ONCAM,Z1,GTRI Conference Center Parking Deck,250,,Fourteenth Street  NW,,,1
+18030626,03/15/2018,13:00:00,03/27/2018,19:59:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA North Parking Deck   191   Z2,120,,North Avenue NW,33.770600,-84.391865,1
+18040862,04/21/2018,08:20:00,04/21/2018,08:23:00,1316,Terroristic Threats/Intimidation,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Barnes and Noble Bookstore 172  Z2,48,,Fifth Street NW,33.77668,-84.38863,1
+18040888,04/26/2018,01:55:00,04/26/2018,02:13:00,3562,Marijuana - Possession of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Christian Campus Fellowship,767,,Techwood Drive  NW,33.775606214200003,-84.3916148542,1
+18040908,04/27/2018,21:19:00,04/27/2018,21:30:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,North Avenue  NW @ State Street  NW,,,,,,1
+18050940,05/01/2018,23:24:00,05/02/2018,00:09:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Shirley Clements Mewborn Field,935,,Fowler Street,33.779233098799999,-84.393197336100002,1
+18050979,05/05/2018,10:03:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments  191  Z2,120,,North Avenue NW,33.770119840900001,-84.391353516400002,1
+18050997,03/21/2018,13:30:00,05/07/2018,06:30:00,2308,Larceny - From Building,Closed/Cleared,,ONCAM,Z1,Boggs Building,770,,State Street  NW,33.7738,-84.3945,1
+18051056,05/14/2018,12:15:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,Tenth Street at State Street  NW,,,,,,2
+18020384,02/26/2018,11:14:00,02/26/2018,11:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Fulmer Residence Hall,871,,McMillan Street NW,33.778647731100001,-84.403883816000004,1
+18020403,02/28/2018,13:00:00,02/28/2018,13:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z4,Ferst Drive @ Regents Drive,,,,,,2
+18030428,03/02/2018,17:20:00,03/02/2018,17:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,,,1
+18030619,03/27/2018,12:00:00,03/27/2018,12:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18040753,04/09/2018,21:33:00,04/10/2018,03:15:00,2902,Damage to Property - Private,Further Investigation,,ONCAM,Z4,Paper Tricentennial Building,500,,10th Street  NW,,,1
+18040774,04/12/2018,12:00:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,College of Architecture East   76   Z3,245,,Fourth Street  NW,33.775975305499998,-84.395381355500007,1
+18040791,04/12/2018,10:00:00,04/12/2018,19:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18040810,04/13/2018,16:00:00,04/16/2018,08:15:00,2903,Damage to Property - Public,Further Investigation,,ONCAMRES,Z2,North Avenue Apartments  191  Z2,120,,North Avenue NW,33.770119840900001,-84.391353516400002,1
+18040857,04/21/2018,01:29:00,04/21/2018,02:05:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments,939,,Hemphill Avenue  NW,33.780051239800002,-84.401987856700003,1
+18040877,04/24/2018,09:00:00,04/24/2018,14:50:00,9999,Non-Crime (not reported to state),Inactive,,ONCAM,Z3,Student Center,350,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18040898,04/26/2018,22:39:00,04/26/2018,23:44:00,3562,Marijuana - Possession of,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,Techwood Drive NW /  Fifth Street NW,,,1
+18040931,04/30/2018,22:40:00,04/30/2018,22:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z4,Ferst Drive @ Sixth Street,,,,,,1
+18020295,02/17/2018,02:42:00,02/17/2018,03:25:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAMRES,Z4,Freeman Residence Hall,835,,McMillan Street NW,,,1
+18020335,02/21/2018,19:29:00,02/21/2018,20:56:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z4,,,,Northside Drive NW @ 10th Street NW,,,1
+18020390,02/26/2018,14:30:00,02/26/2018,14:40:00,2308,Larceny - From Building,Inactive,,ONCAM,Z3,Student Center,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18030494,03/12/2018,19:00:00,03/12/2018,19:15:00,2308,Larceny - From Building,Inactive,,ONCAM,Z3,Student Center,351,,Ferst Drive  NW,33.7741360837,-84.398818020899995,1
+18030495,03/12/2018,20:12:00,03/12/2018,21:04:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z1,,,,Fourteenth St. and West Peachtree St.,,,1
+18030554,03/09/2018,19:45:00,03/09/2018,22:45:00,2308,Larceny - From Building,Inactive,,ONCAM,Z1,McCamish Pavilion   73   Z1,965,,Fowler Street NW,33.780675845099999,-84.392766362000003,1
+18040687,04/03/2018,14:00:00,04/03/2018,14:40:00,2902,Damage to Property - Private,Inactive,,ONCAM,Z2,Power Plant Drive @ Bobby Dodd Way NW,,,,,,1
+18040707,04/05/2018,23:45:00,04/06/2018,00:30:00,2902,Damage to Property - Private,Closed/Cleared,Prosecution Declined,NONCAM,Z1,Phi Sigma Kappa Fraternity,825,,Techwood Drive NW,,,1
+18040719,04/06/2018,23:05:00,04/06/2018,23:58:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,Tenth Street @ Fowler Street NW,,,1
+18040727,04/07/2018,22:51:00,04/07/2018,22:53:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,4th Street  NW,,,1
+18040728,04/07/2018,23:50:00,04/08/2018,00:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,NAA East  191  Z2,120,,North Avenue  NW,33.76952,-84.39097,1
+18040748,04/10/2018,01:44:00,04/10/2018,02:03:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Smith Building,685,,Cherry Street  NW,33.773645202700003,-84.395148047299998,1
+18030548,03/17/2018,16:10:00,03/17/2018,16:25:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue Apartments,120,,North Avenue NW,,,1
+18030595,03/25/2018,11:06:00,03/25/2018,11:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCLERY,Z4,,,,,,,1
+18030609,03/26/2018,16:50:00,03/26/2018,17:00:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Parking and Transportation Building,828,,West Peachtree Street  NW,33.781556,-84.391745,1
+18030614,03/27/2018,02:35:00,03/27/2018,02:41:00,2999,Damage to Property Offense Free Text,Further Investigation,,ONCAM,Z3,Campus Services Warehouse,818,,Joseph E Lowery Boulevard NW,,,1
+18030628,03/27/2018,14:00:00,03/27/2018,17:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Love Manufacturing Building,771,,Ferst Drive,33.778956412500001,-84.401314659600004,1
+18030629,03/28/2018,01:01:00,03/28/2018,02:48:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Cleared by Arrest,PUB,Z2,Centennial Olympic  Park Drive @ Merritts Avenue,,,,,,1
+18030648,03/16/2018,19:00:00,03/25/2018,19:00:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue Apartments  191  Z2,120,,North Avenue NW,33.770119840900001,-84.391353516400002,1
+18030656,03/30/2018,12:00:00,03/30/2018,12:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18040746,04/09/2018,23:18:00,04/10/2018,00:08:00,5311,Disorderly Conduct,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue  NW,,,1
+18040755,04/10/2018,16:39:00,04/10/2018,17:49:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Cloudman Residence Hall,661,,Techwood Drive NW,,,1
+18040790,04/12/2018,19:00:00,04/13/2018,06:00:00,2399,Larceny Offense Free Text,Further Investigation,,ONCAM,Z2,Smith Residence Hall,630,,Williams Street NW,33.771707325999998,-84.3912515496,1
+18050961,05/03/2018,17:30:00,05/03/2018,18:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,,48,,Fifth Street  NW,,,1
+18030568,03/20/2018,18:22:00,03/20/2018,18:22:00,2699,Fraudulent Activity Offense Free ,Closed/Cleared,Prosecution Declined,ONCAM,Z3,Student Services Building   123   Z3,353,,Ferst Drive NW,33.774350440299997,-84.399552469699998,1
+18030631,03/28/2018,11:53:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Freeman Residence Hall   117   Z4,835,,McMillan Street NW,33.777550332899999,-84.403920210199999,1
+18030650,03/29/2018,12:17:00,03/29/2018,15:50:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Cherry Emerson Building Loading Dock,310,,Ferst Drive,,,1
+18030668,03/31/2018,20:28:00,03/31/2018,21:00:00,9999F,,Closed/Cleared,,ONCAM,Z2,Coon Building,654,,Cherry Street NW,,,1
+18040675,04/02/2018,11:29:00,04/02/2018,11:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Library,704,,Cherry Street NW,,,1
+18040704,04/05/2018,17:00:00,04/05/2018,17:10:00,9999V,,Closed/Cleared,,ONCAM,Z3,VOID,800,,Atlantic Drive  NW,,,1
+18040715,04/06/2018,19:42:00,04/06/2018,19:55:00,8399,,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,Montag Residence Hall,845,,McMillan Street  NW,,,1
+18040724,04/07/2018,10:49:00,04/07/2018,11:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Ferst Drive NW @ Atlantic Drive NW,,,,33.778264,-84.397802,1
+18040744,04/09/2018,22:51:00,04/10/2018,00:36:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,Z4,North Avenue NW @ State Street Nw,,,,33.77135,-84.39616,1
+18040750,04/10/2018,02:17:00,04/10/2018,02:25:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,NONCAM,Z1,Theta Chi Fraternity,840,,Techwood Drive  NW,33.777619340000001,-84.392350068100001,1
+18040770,04/12/2018,12:45:00,04/12/2018,13:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,Prosecution Declined,ONCAM,Z3,Campus Recreation Center   160   Z4,750,,Ferst Drive NW,33.775464005800004,-84.403499012599994,1
+18040787,04/12/2018,17:55:00,04/13/2018,06:00:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z1,Instructional Center,759,,Ferst Dr. NW,33.778956412500001,-84.401314659600004,1
+18010055,01/12/2018,12:55:00,01/12/2018,15:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Technology Square Parking Deck 174  Z2,770,,Spring Street  NW,33.775586617599998,-84.389475466600004,1
+18010075,01/16/2018,07:00:00,01/16/2018,07:44:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,OFFCAM,,,,,,,1
+18010079,01/16/2018,20:42:00,01/16/2018,20:55:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Prosecution Declined,PUB,OFFCAM,Northside Drive  NW @ 8th Street  NW,,,,33.781583,-84.407442,1
+18010107,01/21/2018,02:02:00,01/21/2018,02:35:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,Folk Residence Hall   110   Z4,531,,Turner Place NW,33.778916221700001,-84.404839926199998,1
+18010127,01/24/2018,17:07:00,01/24/2018,17:48:00,1316,Terroristic Threats/Intimidation,Closed/Cleared,Cleared by Arrest,PUB,Z1,,1100,,Northside Drive  NW,,,1
+18010147,01/26/2018,23:15:00,01/26/2018,23:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Stamps Field,750,,Ferst Drive NW,,,1
+18020257,02/13/2018,02:28:00,02/13/2018,02:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Services Warehouse,818,,Joseph E Lowery Boulevard NW,33.776562,-84.417785,1
+18020277,02/15/2018,17:23:00,02/15/2018,17:44:00,2314,Larceny - Of Government Property,Closed/Cleared,Prosecution Declined,ONCAM,Z1,Callaway Plaza,154,,Bobby Dodd Way  NW,,,1
+18020286,02/16/2018,14:30:00,02/16/2018,14:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18020395,02/27/2018,14:00:00,02/27/2018,14:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18030437,03/03/2018,03:00:00,03/03/2018,04:00:00,9999V,,Closed/Cleared,,,Z2,VOID,112,,Bobby Dodd Way NW,,,1
+18030482,03/10/2018,23:37:00,03/10/2018,23:49:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,PUB,Z1,Ferst Drive @ Fowler Street,,,,,,1
+18030500,03/13/2018,01:12:00,03/13/2018,03:26:00,9999V,,,,PUB,Z1,,,,,,,1
+18030653,03/29/2018,20:01:00,03/29/2018,20:15:00,8399,,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Perry-Matheson Residence Hall   92   Z2,715,,Techwood Drive NW,33.7745062595,-84.39133,1
+18040751,04/10/2018,02:17:00,04/10/2018,02:41:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z1,Fifth Street @ Techwood Drive,,,,33.776916,-84.392120,1
+18040858,04/21/2018,02:23:00,04/21/2018,03:23:00,4199,Liquor Law Violation Offense Free Text,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,Maulding Residence Hall,501,,Sixth Street NW,,,1
+18040878,04/24/2018,15:03:00,04/24/2018,15:34:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Baker Building,925,,Dalney Street NW,,,1
+18040893,04/26/2018,18:10:00,04/26/2018,19:03:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Student Center Commons,351,,Ferst Drive NW,,,1
+18050949,05/03/2018,02:10:00,05/03/2018,02:12:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Towers Residence Hall,112,,Bobby Dodd Way NW,,,1
+18051026,05/10/2018,08:22:00,05/10/2018,09:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,,,1
+18051087,05/17/2018,03:03:00,05/17/2018,03:18:00,4104,Liquor - Possession Of,Closed/Cleared,Cleared by Arrest,PUB,Z2,Techwood Drive @ Fourth Street,,,,,,1
+18030442,03/04/2018,18:45:00,03/04/2018,19:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Hefner Residence Hall,510,,Eighth Street NW,33.779148858600003,-84.403943568499997,1
+18030488,03/12/2018,13:00:00,03/12/2018,13:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18030508,03/13/2018,22:15:00,03/13/2018,22:20:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAMRES,Z4,Fulmer Residence Hall,871,,McMillan St NW,33.778956412500001,-84.401314659600004,1
+18030535,03/15/2018,21:00:00,03/16/2018,16:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments,939,,Hemphill Avenue NW,,,1
+18030613,03/26/2018,23:40:00,03/27/2018,00:16:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,North Avenue South Parking Deck,120,,North Avenue  NW,33.77058,-84.39095,1
+18040683,04/03/2018,02:03:00,04/03/2018,03:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,,890,,Curran Street NW,33.7791074274,-84.406624872899997,1
+18040706,04/05/2018,22:00:00,04/05/2018,22:14:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,oncam,Z2,Georgia Tech Hotel & Conference Center,800,,Spring Street  NW,33.776343252300002,-84.389307920199997,1
+18040730,04/08/2018,03:11:00,04/08/2018,03:27:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,PUB,Z1,Tenth Street NW @ Fowler Street NW,,,,,,1
+18040818,04/16/2018,11:25:00,04/17/2018,11:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Pettit Microelectronics Research Ctr. (MiRC) 95  Z3,791,,Atlantic Drive NW,33.776614159099999,-84.397329909099994,1
+18040849,04/15/2018,14:00:00,04/19/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,Prosecution Declined,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18040854,04/20/2018,18:45:00,04/20/2018,19:00:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z4,Campus Recreation Center,750,,Ferst Drive  NW,33.775464005800004,-84.403499012599994,1
+18051024,05/09/2018,23:54:00,05/10/2018,00:21:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street  NW @ State Street  NW,,,,,,1
+18051034,05/11/2018,08:14:00,05/11/2018,08:14:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,I-75S @ North Avenue  NW,,,,,,1
+18051068,05/15/2018,11:50:00,05/15/2018,11:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Tech Walkway,686,,Cherry Street NW,33.778956412500001,-84.401314659600004,1
+18051089,05/10/2018,16:00:00,05/15/2018,09:30:00,2903,Damage to Property - Public,Further Investigation,,NONCAM,Z2,Phi Delta Theta Fraternity,734,,Fowler Street NW,33.7746375385,-84.3942054445,1
+18040729,04/08/2018,01:41:00,04/08/2018,01:52:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z4,Tenth Street  NW @ Northside Drive  NW,,,,,,1
+18040743,04/09/2018,15:40:00,04/09/2018,19:46:00,2699,Fraudulent Activity Offense Free ,Further Investigation,,ONCAM,Z1,North Avenue Apartments,120,NW,NORTH AVENUE,33.778956412500001,-84.401314659600004,1
+18040749,04/10/2018,01:37:00,04/10/2018,02:11:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Harrison Residence Hall,660,,Williams Street NW,,,1
+18040792,04/13/2018,07:30:00,04/13/2018,16:30:00,7399,Miscellaneous Offenses,Further Investigation,,ONCAM,Z2,,,,,33.7728076008,-84.395853411000004,1
+18040827,04/18/2018,12:00:00,04/18/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street South Apartments,879,,Hemphill Avenue NW,,,1
+18040839,04/19/2018,01:46:00,04/19/2018,04:10:00,1316,Terroristic Threats/Intimidation,Closed/Cleared,Cleared by Arrest,PUB,Z1,,,,,33.781552,-84.404199,1
+18040847,04/19/2018,16:25:00,04/19/2018,16:34:00,3605,Indecent Exposure,Further Investigation,,NONCLERY,Z2,University House,930,,Spring Street NW,,,1
+18050937,05/01/2018,17:03:00,05/01/2018,17:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,,,,Tenth Street @ State Street NW,,,1
+18050978,05/05/2018,10:05:00,05/05/2018,10:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,McCamish Pavilion   73   Z1,965,,Fowler Street NW,33.780675845099999,-84.392766362000003,1
+18051007,05/06/2018,21:00:00,05/08/2018,16:31:00,2317,Larceny - Bicycle,Further Investigation,,ONCAM,Z1,Graduate Living Center,301,,Tenth Street  NW,,,1
+18051016,05/09/2018,04:33:00,05/09/2018,04:49:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Scheller College of Business   172   Z2,800,,West Peachtree Street NW,33.776280525200001,-84.3880186544,1
+18051039,05/11/2018,11:03:00,05/11/2018,11:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z4,Habersham House Lot,781,,Marietta Street,,,1
+18030620,03/17/2018,01:25:00,03/17/2018,01:50:00,2399,Larceny Offense Free Text,Closed/Cleared,Prosecution Declined,ONCAM,Z1,Kendeda Building,422,,Ferst Drive NW,,,1
+18030637,03/28/2018,18:40:00,03/28/2018,18:43:00,3699,Sex Offense Free Text,Closed/Cleared,Cleared by Arrest,ONCAM,Z4,Campus Recreation Center   160   Z4,750,,Ferst Drive NW,33.775464005800004,-84.403499012599994,1
+18030640,03/28/2018,21:30:00,03/28/2018,21:31:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18030655,03/30/2018,07:00:00,,,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Instructional Center   55   Z3,759,,Ferst Drive NW,33.775444563000001,-84.401297829499995,1
+18030666,03/31/2018,15:35:00,03/31/2018,15:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Harris Residence Hall,633,,Techwood Drive  NW,33.772090704999997,-84.391660181700004,1
+18040757,04/10/2018,20:17:00,04/10/2018,20:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Scheller College of Business,800,,West Peachtree Street  NW,33.776280525200001,-84.3880186544,1
+18040856,04/21/2018,00:43:00,04/21/2018,01:18:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z2,Fifth Street  NW @ Spring Street  NW,,,,,,1
+18040881,04/24/2018,21:10:00,04/24/2018,23:30:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCAM,OFFCAM,Centergy One Parking Deck @ Tech Square,85,,Fifth Street  NW,,,1
+18040890,04/26/2018,14:21:00,04/26/2018,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Services Building   123   Z3,353,,Ferst Drive NW,33.7743504403,-84.3995524697,1
+18051050,05/13/2018,00:15:00,05/13/2018,02:23:00,2999,Damage to Property Offense Free Text,Further Investigation,,ONCAM,Z1,O'keefe Lot (behind fence),151,,Sixth Street  NW,,,1
+18040811,04/16/2018,15:16:00,04/16/2018,15:21:00,2308,Larceny - From Building,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue NW,,,1
+18040822,04/17/2018,23:04:00,04/17/2018,23:42:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,Fifth Street  NW @ Spring Street  NW,,,,,,1
+18040840,04/19/2018,08:40:00,04/19/2018,08:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Klaus Advanced Computing Building,266,,Ferst Drive  NW,33.777162318999999,-84.396181364,1
+18040865,04/15/2018,02:00:00,04/21/2018,19:02:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18040911,04/28/2018,02:13:00,04/28/2018,02:35:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Spring Street  NW and Eighth Street  NW,,,,,,1
+18040930,04/30/2018,19:40:00,04/30/2018,20:00:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,,Christian Campus Fellowship Parking Lot,767,,Techwood Drive  NW,33.776513064699998,-84.391682726400006,1
+18050962,04/25/2018,08:00:00,05/03/2018,18:30:00,2317,Larceny - Bicycle,Further Investigation,,ONCAM,Z2,North Avenue Apartments,120,,North Avenue  NW,,,1
+18051033,05/10/2018,23:59:00,05/11/2018,12:23:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z4,,,,Northside Drive NW / North Avenue NW,,,1
+18010014,01/04/2018,16:07:00,01/04/2018,16:07:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Tech Green @ Campanile,,,,33.77464,-84.39732,1
+18010076,01/16/2018,12:53:00,01/16/2018,12:53:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18020186,02/01/2018,21:27:00,02/01/2018,21:45:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Northside Drive  NW @ Sixteenth Street  NW,,,,,,1
+18020193,02/02/2018,19:43:00,02/02/2018,19:44:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,Tenth Street  NW @ Hemphill Avenue  NW,,,,,,1
+18020218,02/07/2018,11:15:00,02/07/2018,11:20:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18020308,02/19/2018,13:35:00,02/19/2018,13:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,College of Computing,800,,Atlantic Drive NW,,,1
+18020328,02/20/2018,22:44:00,02/20/2018,23:01:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street NW / Fowler Street NW,,,,,,1
+18020348,02/22/2018,21:02:00,02/22/2018,21:03:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center Commons,351,NW,Ferst Drive NW,,,1
+18020385,02/26/2018,11:19:00,02/26/2018,11:19:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,O'Keefe Building,151,,Sixth Street  NW,33.7738,-84.3945,1
+18030449,03/05/2018,19:40:00,03/05/2018,19:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Fitten Residence Hall,855,,McMillan Street NW,33.778221436199999,-84.403734721800006,1
+18030480,03/05/2018,11:35:00,03/10/2018,15:08:00,2317,Larceny - Bicycle,Inactive,,ONCAM,Z2,NAA Dining Hall,120,,North Avenue NW,33.77101,-84.3913,1
+18030565,03/21/2018,16:21:00,03/21/2018,16:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCLERY,Z1,,,, Perry Blvd. and Johnson Rd.,,,1
+18040678,04/02/2018,15:10:00,04/02/2018,15:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,O'Keefe Building,151,,Sixth Street NW,33.7738,-84.3945,1
+18050936,05/01/2018,15:00:00,05/01/2018,15:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18051059,05/14/2018,15:10:00,05/14/2018,15:33:00,2317,Larceny - Bicycle,Further Investigation,,ONCAM,Z2,,,,Fifth Street  NW @ Spring Street  NW,,,1
+18051069,05/15/2018,13:35:00,05/15/2018,13:42:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Maulding Residence Hall (Sixth St. West Apts.),501,,Sixth Street  NW,33.777007,-84.405706,1
+18040671,03/31/2018,23:00:00,04/01/2018,12:00:00,2202,Burglary  - Forced Entry - Residence,Inactive,,NONCAM,Z2,Delta Chi Fraternity,170,,Fifth Street  NW,33.776605758700001,-84.392959534699997,1
+18040696,04/04/2018,12:20:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18040700,04/05/2018,00:16:00,04/05/2018,01:32:00,9999F,,Further Investigation,,ONCAM,Z3,Klaus Advanced Computing Building,266,,Ferst Drive  NW,,,1
+18040720,04/06/2018,23:01:00,04/07/2018,00:23:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z1,Fowler Street  NW @ Tenth Street  NW,,,,,,1
+18040758,04/04/2018,13:30:00,04/04/2018,16:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Services Warehouse   882,818,,Joseph E Lowery Boulevard NW,33.776562,-84.417785,1
+18040778,04/12/2018,23:23:00,04/12/2018,23:39:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Peters Parking Deck,749,,Fowler Street  NW,,,1
+18040796,04/14/2018,02:50:00,04/14/2018,05:25:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,ONCAM,Z1,Research Administration   155   Z1,505,,Tenth Street NW,,,1
+18040832,04/18/2018,14:59:00,04/18/2018,16:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Smithgall Student Services,353,,Ferst Drive  NW,,,1
+18040864,04/21/2018,17:30:00,04/21/2018,17:50:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Smith Residence Hall,630,,Williams Street NW,33.771707325999998,-84.3912515496,1
+18040875,04/24/2018,13:15:00,04/24/2018,13:50:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,NONCAM,Z1,Tech Plaza Lot,500,BK,Tenth Street,,,1
+18050952,05/03/2018,12:35:00,05/03/2018,12:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18050972,05/03/2018,18:00:00,05/04/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,North Avenue Apartments Parking Deck  South,120,,North Avenue  NW,33.778956412500001,-84.401314659600004,1
+18030635,03/28/2018,11:00:00,03/28/2018,14:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,O'Keefe Building,151,,Sixth Street NW,,,1
+18030646,03/27/2018,16:00:00,03/28/2018,09:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,,204,,Fourth St. NW,,,1
+18030664,03/31/2018,06:24:00,03/31/2018,06:28:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue  NW @ Centennial Olympic Park Drive,,,,33.77135,-84.39616,1
+18040684,03/17/2018,13:00:00,03/17/2018,13:30:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,120,,NORTH AV NW,,,1
+18040798,04/14/2018,10:00:00,04/14/2018,21:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Hanson Residence Hall,109,,Bobby Dodd Way NW,,,1
+18050966,05/04/2018,00:43:00,05/04/2018,01:00:00,9999W,,Closed/Cleared,Cleared by Arrest,NONCLERY,Z4,North Avenue NW @ State Street NW,,,,,,1
+18050980,05/03/2018,18:00:00,05/04/2018,08:00:00,2305,Larceny - Articles from Vehicle,Further Investigation,,ONCAM,Z2,Peters Parking Deck   8   Z2,749,,Fowler Street NW,33.774974616999998,-84.393527398299995,1
+18050992,05/06/2018,02:30:00,05/06/2018,03:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Stadium   17   Z2,155,,North Avenue NW,33.771865,-84.393316,1
+18051002,05/07/2018,19:25:00,05/07/2018,19:27:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Family Apartments,251,,Tenth Street  NW,,,1
+18051088,05/17/2018,01:37:00,05/17/2018,05:49:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z4,Tech Parkway NW @  Northside Drive NW,,,,,,1
+18040914,04/23/2018,12:00:00,04/26/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Zbar Residence Hall,823,,Curran Street  NW,,,1
+18050943,04/27/2018,16:00:00,05/01/2018,09:00:00,2317,Larceny - Bicycle,Closed/Cleared,,ONCAM,Z2,North Avenue Apartments  191  Z2,120,,North Avenue  NW,33.770119840900001,-84.391353516400002,1
+18051047,05/12/2018,16:04:00,05/12/2018,17:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,Spring Street  NW and Fifth Street  NW,,,,,,1
+18051074,05/15/2018,19:52:00,05/15/2018,20:20:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAMRES,Z1,Alpha Sigma Phi fraternity,171,,Fifth Street  NW,,,1
+18040828,04/18/2018,12:00:00,04/18/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Campus Recreation Center,750,,Ferst Drive NW,33.775464005800004,-84.403499012599994,1
+18040848,04/19/2018,17:20:00,04/19/2018,17:25:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore 172  Z2,48,,Fifth Street NW,33.77668,-84.38863,1
+18051041,05/11/2018,15:40:00,05/11/2018,17:43:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z4,,,,Tenth Street NW @ Northside Drive NW,,,1
+18051052,05/14/2018,02:18:00,05/14/2018,02:29:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue NW,,,1
+18051064,05/14/2018,22:12:00,05/14/2018,22:39:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue  NW,,,1
+18051023,05/09/2018,22:36:00,05/09/2018,22:39:00,2206,Possession of Burglary Tools,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA South Deck,120,,North Avenue,33.769960,-84.392158,1
+18051057,05/14/2018,12:56:00,05/14/2018,13:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z3,,,,Ferst Drive @ Hemphill Avenue NW,,,1
+18051067,05/15/2018,10:00:00,05/15/2018,10:36:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Britian Dining Hall,649,,Techwood Drive  NW,,,1
+18020344,02/22/2018,11:00:00,02/22/2018,11:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,,,1
+18030460,03/07/2018,15:30:00,03/07/2018,15:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18030465,03/08/2018,09:24:00,03/08/2018,10:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,,,,,33.781552,-84.404199,1
+18030473,03/08/2018,10:45:00,03/09/2018,09:05:00,2317,Larceny - Bicycle,Inactive,,ONCAM,Z2, Montgomery Knight Building,270,,Ferst Drive  NW,33.7728076008,-84.395853411000004,1
+18030509,03/13/2018,20:05:00,03/13/2018,21:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z4,,768,,Marietta Street  NW,,,1
+18030529,03/16/2018,08:59:00,03/16/2018,09:40:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z1,Fifth Street @ Spring Street,,,,33.776895,-84.390873,1
+18030549,03/17/2018,17:40:00,03/17/2018,17:46:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,,,,,,,1
+18030550,03/17/2018,14:00:00,03/17/2018,18:45:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z2,Library,704,,Cherry Street NW,,,1
+18030566,03/21/2018,23:52:00,03/22/2018,00:48:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Means Street  NW @ Marietta Street  NW,,,,,,1
+18030583,03/23/2018,16:40:00,03/23/2018,16:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,,,1
+18040672,04/02/2018,00:22:00,04/02/2018,02:20:00,5404,Driving Under the Influence of Alcohol,Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,33.771339,-84.393678,1
+18040900,04/27/2018,10:30:00,04/27/2018,10:35:00,9999V,,Closed/Cleared,,ONCAM,Z3,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18040904,04/27/2018,14:36:00,04/27/2018,14:46:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,,,,Fifth Street @ West Peachtree Street NW,,,1
+18040874,04/20/2018,15:30:00,04/20/2018,15:58:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Skiles Classroom Building    Room 149,686,,Cherry Street NW,33.773603901800001,-84.396244826,1
+18040915,03/01/2018,12:00:00,04/28/2018,16:52:00,5707,Criminal Trespass,Closed/Cleared,Prosecution Declined,ONCAMRES,Z4,Eighth Street Apartments   130   Z4,555,,Eighth Street NW,33.780128725799997,-84.405138647100003,1
+18050969,05/04/2018,17:20:00,05/04/2018,18:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Services Building,353,,Ferst Drive  NW,,,1
+18050995,05/06/2018,12:00:00,05/06/2018,23:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,NAA Turnaround,,,,33.77005,-84.39162,1
+18051028,04/26/2018,09:00:00,05/09/2018,12:00:00,2903,Damage to Property - Public,Closed/Cleared,,ONCAM,Z3,Klaus Advanced Computing Building   153   Z3,266,,Ferst Drive  NW,33.777162318999999,-84.396181364,1
+18051038,05/11/2018,11:31:00,05/11/2018,11:31:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z1,10th Street @ I-75S on ramp,,,,,,1
+18020389,02/26/2018,15:40:00,02/26/2018,17:19:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,Z1,Ferst Drive  NW and Cherry Street  NW,,,,33.7788451431,-84.398476576099995,1
+18020401,02/28/2018,02:26:00,02/28/2018,03:09:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAMRES,Z2,NAA South  191  Z2,120,,North Avenue NW,33.76932,-84.39182,1
+18030430,03/02/2018,17:45:00,03/02/2018,17:46:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Chandler Stadium,255,,Ferst Drive NW,,,1
+18030435,03/03/2018,02:15:00,03/03/2018,06:00:00,3605,Indecent Exposure,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Parking Office (PTS),828,,West Peachtree Street  NW,,,1
+18030561,03/06/2018,15:49:00,03/20/2018,16:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18030582,03/23/2018,15:02:00,03/23/2018,16:25:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z3,The Student Center,351,,Ferst Drive NW,,,2
+18030654,03/29/2018,22:08:00,03/29/2018,22:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Alumni-Faculty House,190,,North Avenue  NW,,,1
+18040708,04/06/2018,03:29:00,04/06/2018,04:10:00,5309,Harassing Communication,Closed/Cleared,Prosecution Declined,NONCAM,Z3,Sigma Alpha Epsilon Fraternity,221,,Fourth Street  NW,33.776093423900001,-84.394534182499996,1
+18040713,04/04/2018,16:00:00,04/06/2018,17:17:00,2317,Larceny - Bicycle,Further Investigation,,ONCAM,Z2,Field Residence Hall,711,,Techwood Drive NW,,,1
+18040735,04/08/2018,23:51:00,04/09/2018,00:14:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Towers Residence Hall,112,,Bobby Dodd Way NW,,,1
+18040782,04/13/2018,00:35:00,04/13/2018,01:15:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z4,Nelson and Shell Undergraduate Living Center,580,,Turner Place NW,,,1
+18040805,04/15/2018,15:29:00,04/15/2018,15:50:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,48,,Fifth Street  NW,,,1
+18050986,05/05/2018,18:55:00,05/05/2018,19:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Stamps Field,750,,Ferst Drive  NW,,,1
+18051044,05/11/2018,17:21:00,05/11/2018,18:00:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,PUB,Z2,Fifth Street  NW at Spring Street  NW,,,,,,1
+18051055,05/13/2018,11:20:00,05/14/2018,11:12:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive  NW,33.7741360837,-84.398818020899995,1
+18030591,03/24/2018,18:35:00,03/24/2018,18:37:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Parking Lot,300,,Ferst Drive  NW,,,2
+18030604,03/26/2018,13:35:00,03/26/2018,13:35:00,5499,Traffic Offense (describe offense),Closed/Cleared,,PUB,Z1,,,,,,,1
+18030623,03/27/2018,14:15:00,03/27/2018,14:17:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,,48,,Fifth Street  NW @ Spring Street  NW,,,1
+18030624,03/27/2018,17:58:00,03/27/2018,19:46:00,5499,Traffic Offense (describe offense),Closed/Cleared,,ONCAM,Z2,North Ave NW @ Mcafee Street  NW,,,,33.777686,-84.395756,1
+18030643,03/29/2018,00:21:00,03/29/2018,00:24:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Scheller College of Business,800,,West Peachtree St.  NW,,,1
+18030651,03/29/2018,05:30:00,03/29/2018,16:19:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Recreation Center Parking Deck,750,,Ferst Drive NW,,,1
+18040688,04/03/2018,14:45:00,04/03/2018,16:27:00,2305,Larceny - Articles from Vehicle,Inactive,,ONCAM,Z1,O'Keefe Building   33   Z1,151,,Sixth Street NW,33.7738,-84.3945,1
+18040880,04/24/2018,17:30:00,04/24/2018,17:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Scheller College of Business   172   Z2,800,,West Peachtree Street NW,33.776280525200001,-84.3880186544,1
+18040905,04/27/2018,16:10:00,04/27/2018,16:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Harris Residence Hall,633,,Techwood Drive  NW,,,1
+18051062,04/19/2018,16:00:00,05/14/2018,16:30:00,2317,Larceny - Bicycle,Further Investigation,,ONCAM,Z2,NAA Dining Hall,120,,North Avenue NW,,,1
+18030519,03/15/2018,11:35:00,03/15/2018,12:46:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Van Leer Electrical Engineering Building   85  Z3,777,,Atlantic Drive NW,33.775855911500003,-84.397170809100004,1
+18030537,03/16/2018,17:17:00,03/16/2018,17:32:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z4,North Avenue Apartments,120,,North Avenue  NW,33.771401,-84.398997,1
+18030572,03/22/2018,17:10:00,03/22/2018,17:19:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Cleared by Arrest,PUB,Z1,Tenth Street NW @ State Street NW,,,,,,1
+18030644,03/29/2018,03:15:00,03/29/2018,03:47:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAMRES,Z2,Towers Residence Hall,112,,Bobby Dodd Way NW,,,1
+18030652,03/27/2018,18:30:00,03/28/2018,07:30:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z3,Manufacturing Research Center (MaRC)   126  Z3,813,,Ferst Drive NW,33.7775993098,-84.4013428492,1
+18040763,04/11/2018,18:09:00,04/11/2018,18:44:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue NW @ Spring Street,,,,,,2
+18040867,04/23/2018,01:02:00,04/23/2018,01:49:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,Harrison Residence Hall,660,,Williams Street NW,,,1
+18040883,04/24/2018,23:11:00,04/24/2018,23:57:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,33.774681795699998,-84.396379388400007,1
+18040921,04/29/2018,18:04:00,04/29/2018,20:36:00,3562,Marijuana - Possession of,Closed/Cleared,Arrest On Primary Offense/Secondary Offense Without Prosecution,PUB,Z1,,,,Tenth Street @ Hemphill Avenue NW,,,1
+18050946,05/02/2018,16:53:00,05/02/2018,17:34:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z4,Tenside Apartments,1000,,Northside Drive  NW,,,1
+18050977,05/04/2018,10:00:00,05/04/2018,14:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,McCamish Pavillion,965,,Fowler Street  NW,,,1
+18040788,04/13/2018,11:01:00,04/13/2018,13:00:00,5311,Disorderly Conduct,Closed/Cleared,Cleared by Arrest,ONCAM,Z4,Student Health Center   177   Z4,740,,Ferst Drive NW,33.774833656299997,-84.403110789999999,1
+18040807,04/15/2018,18:04:00,04/15/2018,18:22:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Bobby Dodd Way  NW @ Techwood Drive  NW,,,Bobby Dodd Way @ Fowler Street,,,1
+18040886,04/25/2018,13:16:00,04/25/2018,14:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Bobby Dodd Way & Brittain Dr NW,,,,33.773913,-84.392857,1
+18050982,05/05/2018,16:00:00,05/05/2018,16:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,McCamish Pavilion,965,,Fowler Street NW,,,1
+18051029,05/10/2018,12:00:00,05/10/2018,12:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Brown Residence Hall,625,NW,Techwood Drive,,,1
+18030667,03/31/2018,14:00:00,03/31/2018,14:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Tech Green,350,,Ferst Drive  NW,33.778956412500001,-84.401314659600004,1
+18040855,04/20/2018,19:33:00,04/20/2018,20:05:00,9999W,,Closed/Cleared,Cleared by Arrest,PUB,OFFCAM,Merrits Avenue  NW at Centennial Olympic Park Drive  NW,,,,,,1
+18040863,04/21/2018,15:55:00,04/21/2018,16:00:00,3550,Possession of Drug Related Items/Narcotic Equipment,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Bobby Dodd Stadium,155,,North Avenue NW,33.771865,-84.393316,1
+18040899,04/27/2018,04:47:00,04/27/2018,04:48:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18050945,05/02/2018,17:00:00,05/02/2018,18:03:00,2308,Larceny - From Building,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,,,1
+18050951,05/02/2018,15:30:00,05/02/2018,15:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore,48,,Fifth Street NW,33.77668,-84.38863,1
+18050971,05/04/2018,14:00:00,05/04/2018,14:30:00,2399,Larceny Offense Free Text,Closed/Cleared,Unfounded,ONCAM,Z2,NAA Turnaround,120,,North Avenue  NW,33.77005,-84.39162,1
+18051010,05/08/2018,17:00:00,05/08/2018,18:00:00,4803,Making A False Report/Giving False Information,Closed/Cleared,Cleared by Arrest,NONCLERY,OFFCAM,Northside Drive  NW at Donald Lee Hollowell Parkway  NW,,,,,,1
+18051015,05/09/2018,00:42:00,05/09/2018,01:37:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Parker H. Petit Biotechnology Building,315,,Ferst Drive NW,,,1
+18051066,05/15/2018,05:55:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,Georgia Tech Hotel & Conference Center   171  Z2,800,,Spring Street NW,33.776343252300002,-84.389307920199997,1
+18040718,04/06/2018,22:30:00,04/06/2018,22:32:00,3564,Marijuana Free Text,Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,Luckie Street NW @ Hunnicutt Street NW,,,,,,1
+18040733,04/08/2018,17:35:00,04/08/2018,17:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Fifth Street NW @ Techwood Drive NW,,,,,,1
+18040739,04/09/2018,07:30:00,04/09/2018,07:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18040785,04/13/2018,02:43:00,04/13/2018,03:30:00,9999W,,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Library,704,,Cherry Street  NW,,,1
+18040794,04/14/2018,01:01:00,04/14/2018,01:07:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Christian Campus Fellowship,767,,Techwood Drive NW,,,1
+18040837,04/18/2018,14:30:00,04/18/2018,16:30:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z4,Clough Undergraduate Learning Commons,266,,Fourth Street  NW,,,1
+18051006,05/08/2018,12:25:00,05/08/2018,14:33:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Family Apartments Parking Deck (Tenth Street entrance),251,,Tenth Street  NW,,,1
+18051032,04/21/2018,16:54:00,04/21/2018,16:55:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,McMillan Street  NW @ Sixth Street  NW,,,,,,1
+18051063,05/14/2018,14:00:00,05/14/2018,14:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18030520,03/14/2018,17:00:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,,Manufacturing Research Center (West Side),813,,Ferst Drive,,,1
+18030553,03/18/2018,16:30:00,03/19/2018,07:00:00,9999,Non-Crime (not reported to state),Further Investigation,,ONCAM,Z2,North Avenue Apartments,120,,North Avenue  NW,33.770119840900001,-84.391353516400002,1
+18030574,01/12/2018,09:08:00,03/22/2018,22:00:00,9999N,,Further Investigation,,ONCAM,Z2,Criminal Investigations Office,828,,West Peachtree Street NW,33.777138,-84.387672,1
+18030596,03/16/2018,12:00:00,03/25/2018,18:00:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,,NAA North  191  Z2,120,,North Avenue NW,33.77058,-84.39095,1
+18030605,03/26/2018,14:04:00,03/26/2018,14:29:00,9999CTW,,Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore 172  Z2,48,,Fifth Street NW,33.77668,-84.38863,1
+18030645,03/29/2018,01:30:00,03/29/2018,02:05:00,9999,Non-Crime (not reported to state),Inactive,,NONCLERY,Z2,,,,,,,1
+18040686,04/02/2018,20:39:00,04/03/2018,14:23:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive  NW,33.7741360837,-84.398818020899995,1
+18040747,04/10/2018,01:00:00,04/10/2018,01:32:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Techwood Drive  NW @ Bobby Dodd Way  NW,,,,,,1
+18040786,04/07/2018,08:00:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,Tenth Street @ Fowler Street  Z1,,,Tenth Street @ Fowler Street NW,33.781530,-84.393571,1
+18040871,04/23/2018,14:42:00,04/23/2018,15:32:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z2,Biltmore Hotel-Parking Deck,817,,West Peachtree Street NE,,,1
+18040918,04/28/2018,20:00:00,04/28/2018,23:30:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z2,Clough Undergraduate Learning Center,266,,Fourth Street NW,,,1
+18040927,04/30/2018,13:50:00,04/30/2018,14:03:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z1,,,,Tenth Street @ Hemphill Avenue NW,,,1
+18050954,05/03/2018,16:20:00,05/03/2018,18:16:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,Z1,,,,14th Street NW @ State Street NW,,,2
+18051030,05/10/2018,12:50:00,05/10/2018,14:00:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18051054,05/11/2018,17:00:00,05/14/2018,06:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Bunger Henry Building   86  Z3,778,,Atlantic Drive NW,33.775648846099998,-84.398269699899998,1
+18040920,04/23/2018,22:00:00,04/25/2018,17:15:00,2605,Fraud - Illegal Use of Credit/Financial Transaction Cards,Further Investigation,,ONCAM,Z2,Georgia Tech Hotel & Conference Center   Room 538,800,,Spring Street NW,,,1
+18040924,04/14/2018,08:00:00,04/15/2018,19:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Campus Recreation Center,750,,Ferst Drive  NW,,,1
+18050948,05/02/2018,22:23:00,05/02/2018,22:40:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z4,Woodruff Residence Hall,890,,Curran Street  NW,33.7791074274,-84.4066248729,1
+18050984,05/04/2018,02:30:00,05/04/2018,02:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Center Street Apartments,939,NW,Hemphill Avenue,,,1
+18051076,05/16/2018,08:55:00,05/16/2018,09:00:00,7399,Miscellaneous Offenses,Closed/Cleared,,ONCAM,Z2,Clough Undergraduate Learning Commons  166  Z2,266,,Fourth Street NW,33.774681795699998,-84.396379388400007,1
+18040689,04/02/2018,20:30:00,04/03/2018,16:15:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Barnes and Noble Bookstore 172  Z2,48,,Fifth Street  NW,33.77668,-84.38863,1
+18040702,04/05/2018,12:34:00,04/05/2018,12:39:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,,North Campus Parking Deck   148   Z1,352,,Peachtree Place NW,33.780134924599999,-84.398447156000003,1
+18040722,04/07/2018,01:27:00,04/07/2018,01:44:00,4104,Liquor - Possession Of,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Catholic Center,172,,Fourth Street  NW,33.775156,-84.391976,1
+18040742,04/09/2018,13:50:00,04/09/2018,19:01:00,2902,Damage to Property - Private,Inactive,,ONCAM,Z3,Clydeck,391,,Ferst Drive NW,33.774173099499997,-84.400583143299997,1
+18040760,04/11/2018,16:25:00,04/11/2018,16:45:00,5499,Traffic Offense (describe offense),Closed/Cleared,Prosecution Declined,NONCAM,Z4,,,,Tenth Street @ Northside Drive NW,33.781583,-84.407442,1
+18040793,04/13/2018,17:55:00,04/13/2018,18:20:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,,,,,,,1
+18040850,04/19/2018,19:00:00,04/19/2018,21:00:00,2602,Fraud - Swindle,Further Investigation,,ONCAM,Z3,Manufacturing Related Disciplines Complex,801,,Ferst Drive  NW,,,1
+18040852,03/06/2018,08:36:00,04/20/2018,15:58:00,2404,Theft of Automobile,Inactive,,ONCAM,Z4,IPST,500,,Tenth Street  NW,,,1
+18040870,04/20/2018,11:00:00,04/23/2018,11:00:00,2308,Larceny - From Building,Closed/Cleared,Unfounded,ONCAM,Z4,Scheller College of Business,800,,West Peachtree Street,,,1
+18040897,04/25/2018,19:30:00,04/26/2018,19:30:00,2317,Larceny - Bicycle,Further Investigation,,ONCAM,Z1,Graduate Living Center,301,,Tenth Street NW,,,1
+18040917,04/29/2018,00:30:00,04/29/2018,00:33:00,4802,Obstructing Officer/Criminal Investigation,Closed/Cleared,Cleared by Arrest,PUB,Z1,Center Street Apartments,939,,Hemphill Avenue NW,,,1
+18051051,05/13/2018,04:16:00,05/13/2018,04:27:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,NAA Dining Hall,120,,North Avenue  NW,,,1
+18040817,04/16/2018,12:02:00,04/16/2018,12:07:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Smith Building   24   Z2,685,,Cherry Street NW,33.773645202700003,-84.395148047299998,1
+18040825,04/18/2018,03:26:00,04/18/2018,04:52:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Ferst Drive  NW @ Cherry Street  NW,,,,33.772387,-84.395512,1
+18040845,04/18/2018,11:00:00,04/18/2018,11:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z2,,,,Fifth Street @ Spring Street NW,33.776853,-84.388807,1
+18040894,04/23/2018,23:35:00,04/24/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z2,Beringause Building   46   Z1,879,,Hemphill Avenue NW,33.778956412500001,-84.401314659600004,1
+18050941,05/02/2018,02:26:00,05/02/2018,02:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Clough Undergraduate Learning Commons,266,,Fourth Street NW,,,1
+18050976,05/05/2018,02:40:00,05/05/2018,03:10:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,Z1,,1968,,Hawks Lane,33.778956412500001,-84.401314659600004,1
+18051014,05/08/2018,23:59:00,05/08/2018,23:59:00,9999V,,Closed/Cleared,,ONCAM,Z3,Manufacturing Related Disciplines Complex,801,,Ferst Drive NW,,,1
+18051048,05/12/2018,17:48:00,05/12/2018,17:55:00,2206,Possession of Burglary Tools,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,North Avenue Dining Facility,120,,North Avenue NW,,,1
+18051075,05/16/2018,06:58:00,05/16/2018,07:20:00,2317,Larceny - Bicycle,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Clough Undergraduate Learning Commons  166  Z2,266,,Fourth Street NW,33.774681795699998,-84.396379388400007,1
+18040795,04/14/2018,02:00:00,04/14/2018,02:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCLERY,OFFCAM,,496,,Calhoun Street  NW,,,1
+18040826,04/16/2018,14:30:00,04/17/2018,06:00:00,2205,Burglary - No Forced Entry -NonResidence,Inactive,,ONCAM,Z2,Library   77   Z2,704,,Cherry Street NW,33.774317321700003,-84.395723825199994,1
+18040846,04/04/2018,12:00:00,04/04/2018,12:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Eighth Street Apartments,555,E,Eighth Street NW,,,1
+18040851,04/20/2018,15:56:00,04/20/2018,21:50:00,4801,Resisting Officer/Arrest,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Montgomery Knight Building  (SST II)   101   Z2,270,,Ferst Drive  NW,33.771912556799997,-84.3960731154,1
+18040889,04/26/2018,11:40:00,04/26/2018,11:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Area 1 Operations And Maintenance,831,,Marietta Street NW,33.7753011515,-84.4058488497,1
+18050942,05/02/2018,02:27:00,05/02/2018,02:38:00,5707,Criminal Trespass,Closed/Cleared,Prosecution Declined,ONCAM,Z2,Library,241,,Bobby Dodd Way  NW,33.77379,-84.39206,1
+18050973,05/04/2018,21:30:00,05/04/2018,21:46:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z1,Zeta Beta Tau,160,,Sixth Street  NW,33.777886215300001,-84.392467944299995,1
+18050987,05/05/2018,17:00:00,05/05/2018,19:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,McCamish Pavilion,965,,Fowler Street  NW,33.776990,-84.393645,1
+18051025,05/10/2018,02:08:00,05/10/2018,03:30:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCAM,Z2,North Avenue  NW at Luckie Street  NW,,,,33.770894,-84.395751,1
+18051035,05/09/2018,11:00:00,05/11/2018,08:26:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,O'Keefe Building   33   Z1,151,,Sixth Street   NW,33.7738,-84.3945,1
+18051070,04/30/2018,12:00:00,04/30/2018,12:05:00,2308,Larceny - From Building,Further Investigation,,ONCAM,Z2,Clough Building,266,,Fourth Street  NW,,,1
+18040725,04/07/2018,18:00:00,04/07/2018,18:10:00,5707,Criminal Trespass,Closed/Cleared,Cleared by Arrest,ONCAM,Z2,Barrel House Restuarant,22,,Fifth Street NW,,,1
+18040737,03/27/2018,09:30:00,03/27/2018,10:30:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Beringause Building,879,,Hemphill Avenue  NW,,,1
+18040738,04/09/2018,10:30:00,04/09/2018,15:00:00,2205,Burglary - No Forced Entry -NonResidence,Closed/Cleared,Cleared by Arrest,ONCAM,Z3,Student Center   104   Z3,351,,Ferst Drive NW,33.7741360837,-84.398818020899995,1
+18040783,04/13/2018,00:40:00,04/13/2018,01:26:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,Southern Regional Education Board,592,,Tenth Street NW,,,1
+18040789,04/13/2018,16:45:00,04/13/2018,18:00:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z4,North Avenue Apartments,120,,North Avenue  NW,,,1
+18040836,04/18/2018,17:36:00,04/18/2018,17:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAMRES,Z2,North Avenue Apartments,120,,North Avenue NW,,,1
+18040868,04/23/2018,10:40:00,04/23/2018,11:14:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z3,Clough Undergraduate Learning Commons,266,,Fourth Street NW,,,1
+18040887,04/25/2018,15:45:00,04/25/2018,16:45:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,NONCLERY,Z2,Spring Street  NW  @ Ponce De Leon Ave  NW,,,,,,1
+18040895,04/24/2018,01:02:00,04/26/2018,18:30:00,9999,Non-Crime (not reported to state),Inactive,,ONCAM,Z1,Beringause Building,879,,Hemphill Avenue NW,,,1
+18040909,04/27/2018,22:35:00,04/27/2018,22:35:00,9999,Non-Crime (not reported to state),Closed/Cleared,,PUB,Z4,Marietta Street  NW @ Means Street  NW,,,,,,1
+18040929,04/30/2018,18:34:00,04/30/2018,19:11:00,9999,Non-Crime (not reported to state),Closed/Cleared,,NONCAM,OFFCAM,,307,,TENTH ST NW,,,1
+18050932,05/01/2018,03:13:00,05/01/2018,04:00:00,5499,Traffic Offense (describe offense),Closed/Cleared,Cleared by Arrest,PUB,Z2,,,,,,,1
+18050991,05/06/2018,01:40:00,,,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Beringause Building   46   Z1,879,,Hemphill Avenue  NW,33.778956412500001,-84.401314659600004,1
+18051027,05/10/2018,10:00:00,,,9999,Non-Crime (not reported to state),Inactive,,ONCAM,Z2,Outer Drive between Uncle Heinie Way & North Ave,,,,,,1
+18051077,05/14/2018,20:30:00,05/16/2018,08:15:00,2305,Larceny - Articles from Vehicle,Further Investigation,,ONCAM,Z1,Kappa Sigma Fraternity   311   Z1,182,,Sixth Street NW,33.777920385900003,-84.393200189599995,1
+18051085,05/16/2018,19:34:00,05/16/2018,19:45:00,9999,Non-Crime (not reported to state),Closed/Cleared,,ONCAM,Z1,Klaus Building,266,,Ferst Drive  NW,,,1
